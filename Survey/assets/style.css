@@ -1,0 +1,68 @@
+@import url('common.min.css');
+@import url('facebook-buttons/fb-buttons.css');
+a.uibutton {
+    padding-top:14px;
+}
+
+body, html {
+    margin: 0;
+    padding: 0;
+    background: #e9ebee;
+}
+body {
+    font-family: helvetica, arial, sans-serif;
+    font-size: 13px;
+}
+.blue-bar {
+    background: #3b5998;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+.mobile-only {
+    height: 17px;
+}
+.content-area {
+    background: #fff;
+    border: 1px solid;
+    border-color: #e5e6e9 #dfe0e4 #d0d1d5;
+    border-radius: 3px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding: 15px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+.w-600 {
+    max-width: 600px;
+}
+.w-650 {
+    max-width: 650px;
+}
+.w-720 {
+    max-width: 720px;
+}
+.center-me {
+    margin-left: auto;
+    margin-right: auto;
+}
+.uibutton {
+    border-radius: 2px;
+}
+.muted {
+    color: #777;
+}
+hr {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+@media (max-width: 768px) {
+    hr {
+        margin-top: 9px;
+        margin-bottom: 9px;
+    }
+}
+.interesting {
+    border: 1px solid;
+    border-color: #e5e6e9 #dfe0e4 #d0d1d5;
+    border-radius: 3px;
+}
