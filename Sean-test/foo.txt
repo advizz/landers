@@ -1,3 +1,0 @@
-This change was made from my branch after pull from the master. I then saved it and pushed it to the master via a pull request.
-
-Via desktop.
