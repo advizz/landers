@@ -1,5 +1,0 @@
-Test making a folder.
-
-Pull request test from my branch.
-
-Doing a pull from the desktop.
