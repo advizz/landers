@@ -104,7 +104,7 @@
                 <h1>Grandma Divorced for Being &ldquo;Too Old&rdquo; Gets Revenge &ndash; Dr. Oz &amp; Team&rsquo;s $4
                     Wrinkle Solution Helps 67 Years Old Grandma Look 35 Again!</h1>
                 <img class="img-responsive" src="https://d2vym3yylwrzwi.cloudfront.net/Files/feature2.png"/> <img class="img-responsive"
-                                                                            src="Files/newsarticles.png"/> <img
+                                                                            src="https://d2vym3yylwrzwi.cloudfront.net/Files/newsarticles.png"/> <img
                     class="img-responsive" src="https://d2vym3yylwrzwi.cloudfront.net/Files/diane.jpg"/>
 
                 <p class="m-t-25"><strong><i>Diane Keaton exposed Dr. Oz&#39;s hidden Hollywood secret to erase wrinkles
@@ -121,7 +121,7 @@
 
                 <p>Read on to discover how Ashley Davis successfully restored decades of youth to her face and got
                     revenge on her ex-husband using Dr. Oz&#39;s groundbreaking tip.</p>
-                <img class="img-responsive" src="Files/comp1.png"/>
+                <img class="img-responsive" src="https://d2vym3yylwrzwi.cloudfront.net/Files/comp1.png"/>
                 <h5 class="text-center"><i>After her husband DIVORCED her because she was &ldquo;TOO OLD&rdquo; Ashley
                     Davis promised to get revenge by getting the youngest, most beautiful face she has had in over 20
                     years. She considered cosmetic surgery but due to being evaluated as a &ldquo;high risk patient&rdquo;
@@ -154,7 +154,7 @@
                 <p>Ashley tried one method after another with little or no results. She even considered plastic surgery
                     but was hesitant to go under the knife. Thing were looking hopeless until a few weeks ago while
                     watching The Ellen Show, <strong> Ashley listened to Diane Keaton EXPOSE Dr. Oz&#39;s skincare
-                        secret. </strong> <img class="img-responsive" src="Files/comp2.png"/></p>
+                        secret. </strong> <img class="img-responsive" src="https://d2vym3yylwrzwi.cloudfront.net/Files/comp2.png"/></p>
 
                 <p>He has reserved this secret technique only for celebrity clients who want to look 10 to 15 years
                     younger fast, but are scared of the potential risks of surgery or botox.</p>
@@ -196,7 +196,7 @@
                     key ingredients found in <a
                             href="#offerbox"><span>Abella Mayfair 90 Second Rapid Wrinkle Control</span></a> with <a
                             href="#offerbox"><span>Abella Mayfair Day &amp; Night Cream</span></a>.</p>
-                <img class="img-responsive" src="Files/rf.jpg"/>
+                <img class="img-responsive" src="https://d2vym3yylwrzwi.cloudfront.net/Files/rf.jpg"/>
                 <h5 class="text-center"><i>&quot;This is the anti aging miracle of the decade as far as I&#39;m
                     concerned.&quot; </i></h5>
 
@@ -226,7 +226,7 @@
                             href="#offerbox"><span>Abella Mayfair 90 Second Rapid Wrinkle Control</span></a> is so
                     effective. It was one of the few products on the market that had Matrixyl 3000+ Complex in the right
                     consistency and dosage.</p>
-                <img class="img-responsive" src="Files/test1.jpg"/>
+                <img class="img-responsive" src="https://d2vym3yylwrzwi.cloudfront.net/Files/test1.jpg"/>
 
                 <p class="m-t-25"><strong>Argireline:</strong><br/>
                     He said the second piece, when combined properly with Matrixyl 3000+ Complex, literally makes your
