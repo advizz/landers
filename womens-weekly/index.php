@@ -12,11 +12,11 @@
     <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
     <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
     <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-    <link href="https://d2vym3yylwrzwi.cloudfront.net/Files/css.txt" id="google_font_Open_Sans-css" media="all" rel="stylesheet" type="text/css"/>
-    <link href="https://d2vym3yylwrzwi.cloudfront.net/Files/bootstrap.min.css" rel="stylesheet"/>
-    <link href="https://d2vym3yylwrzwi.cloudfront.net/Files/bootstrap-theme.min.css" rel="stylesheet"/>
-    <link href="https://d2vym3yylwrzwi.cloudfront.net/Files/font-awesome.min.css" rel="stylesheet" type="text/css"/>
-    <link href="https://d2vym3yylwrzwi.cloudfront.net/Files/style.css" rel="stylesheet" type="text/css"/>
+    <link href="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/css.txt" id="google_font_Open_Sans-css" media="all" rel="stylesheet" type="text/css"/>
+    <link href="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/bootstrap.min.css" rel="stylesheet"/>
+    <link href="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/bootstrap-theme.min.css" rel="stylesheet"/>
+    <link href="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/font-awesome.min.css" rel="stylesheet" type="text/css"/>
+    <link href="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/style.css" rel="stylesheet" type="text/css"/>
     <title>Shape Wrinkle Miracle</title>
     <!-- Start Hover Exit -->
     <style type="text/css">#A1 {
@@ -29,8 +29,8 @@
     }
     </style>
     <link href="jquery.glue.css" rel="stylesheet" type="text/css"/>
-    <script type="text/javascript" src="https://d2vym3yylwrzwi.cloudfront.net/1.4.2/jquery.min.js"></script>
-    <script type="text/javascript" src="https://d2vym3yylwrzwi.cloudfront.net/jquery.min.js"></script>
+    <script type="text/javascript" src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/1.4.2/jquery.min.js"></script>
+    <script type="text/javascript" src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/jquery.min.js"></script>
     <script src="jquery.glue.min.js"></script>
     <script type="text/javascript">
         $(document).ready(function () {
@@ -79,7 +79,7 @@
         <div class="navbar-header">
             <button class="navbar-toggle collapsed" data-target="#bs-example-navbar-collapse-1" data-toggle="collapse"
                     type="button"></button>
-            <a class="navbar-brand" href=""><img src="https://d2vym3yylwrzwi.cloudfront.net/Files/logo2.svg"/></a>
+            <a class="navbar-brand" href=""><img src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/logo2.svg"/></a>
         </div>
 
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -103,9 +103,9 @@
             <div class="col-md-8">
                 <h1>Grandma Divorced for Being &ldquo;Too Old&rdquo; Gets Revenge &ndash; Dr. Oz &amp; Team&rsquo;s $4
                     Wrinkle Solution Helps 67 Years Old Grandma Look 35 Again!</h1>
-                <img class="img-responsive" src="https://d2vym3yylwrzwi.cloudfront.net/Files/feature2.png"/> <img class="img-responsive"
-                                                                            src="https://d2vym3yylwrzwi.cloudfront.net/Files/newsarticles.png"/> <img
-                    class="img-responsive" src="https://d2vym3yylwrzwi.cloudfront.net/Files/diane.jpg"/>
+                <img class="img-responsive" src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/feature2.png"/> <img class="img-responsive"
+                                                                            src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/newsarticles.png"/> <img
+                    class="img-responsive" src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/diane.jpg"/>
 
                 <p class="m-t-25"><strong><i>Diane Keaton exposed Dr. Oz&#39;s hidden Hollywood secret to erase wrinkles
                     WITHOUT botox or surgery. Discover how a divorced grandma has outsmarted plastic surgeons - and how
@@ -121,7 +121,7 @@
 
                 <p>Read on to discover how Ashley Davis successfully restored decades of youth to her face and got
                     revenge on her ex-husband using Dr. Oz&#39;s groundbreaking tip.</p>
-                <img class="img-responsive" src="https://d2vym3yylwrzwi.cloudfront.net/Files/comp1.png"/>
+                <img class="img-responsive" src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/comp1.png"/>
                 <h5 class="text-center"><i>After her husband DIVORCED her because she was &ldquo;TOO OLD&rdquo; Ashley
                     Davis promised to get revenge by getting the youngest, most beautiful face she has had in over 20
                     years. She considered cosmetic surgery but due to being evaluated as a &ldquo;high risk patient&rdquo;
@@ -154,7 +154,7 @@
                 <p>Ashley tried one method after another with little or no results. She even considered plastic surgery
                     but was hesitant to go under the knife. Thing were looking hopeless until a few weeks ago while
                     watching The Ellen Show, <strong> Ashley listened to Diane Keaton EXPOSE Dr. Oz&#39;s skincare
-                        secret. </strong> <img class="img-responsive" src="https://d2vym3yylwrzwi.cloudfront.net/Files/comp2.png"/></p>
+                        secret. </strong> <img class="img-responsive" src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/comp2.png"/></p>
 
                 <p>He has reserved this secret technique only for celebrity clients who want to look 10 to 15 years
                     younger fast, but are scared of the potential risks of surgery or botox.</p>
@@ -176,7 +176,7 @@
 
                 <p>Dr Oz had always kept this wrinkle secret reserved for his high paying celebrity clients...until
                     now.</p>
-                <img class="img-responsive" src="https://d2vym3yylwrzwi.cloudfront.net/Files/fgh.jpg"/>
+                <img class="img-responsive" src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/fgh.jpg"/>
                 <h5 class="text-center"><i>&quot;It&#39;s been proven to be amazingly <strong> effective, safe, and
                     cheap!&quot; </strong> </i></h5>
 
@@ -185,7 +185,7 @@
                     plastic surgeries. As a result, a few weeks ago <strong>she exposed the simple solution Dr Oz had
                         previously only shared with his celeb clients...to everyone watching The Ellen Show!</strong>
                 </p>
-                <img class="img-responsive" src="https://d2vym3yylwrzwi.cloudfront.net/Files/imageedit_5_3750071626.jpg"/>
+                <img class="img-responsive" src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/imageedit_5_3750071626.jpg"/>
                 <h5 class="text-center"><i>&quot;Countless aging celebs admit they avoided surgery and look 10 years
                     younger thanks to Dr. Oz&#39;s simple advice.&quot;</i></h5>
 
@@ -196,7 +196,7 @@
                     key ingredients found in <a
                             href="#offerbox"><span>Abella Mayfair 90 Second Rapid Wrinkle Control</span></a> with <a
                             href="#offerbox"><span>Abella Mayfair Day &amp; Night Cream</span></a>.</p>
-                <img class="img-responsive" src="https://d2vym3yylwrzwi.cloudfront.net/Files/rf.jpg"/>
+                <img class="img-responsive" src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/rf.jpg"/>
                 <h5 class="text-center"><i>&quot;This is the anti aging miracle of the decade as far as I&#39;m
                     concerned.&quot; </i></h5>
 
@@ -206,7 +206,7 @@
 
                 <p><strong>1. Matrixyl 3000+ Complex<br/>
                     2. Argireline</strong></p>
-                <img class="img-responsive" src="https://d2vym3yylwrzwi.cloudfront.net/Files/before_after.jpg"/>
+                <img class="img-responsive" src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/before_after.jpg"/>
 
                 <p class="m-t-25">These are both natural ingredients that work together to erase wrinkles and fine lines
                     at the cellular level &ndash; below the surface of the skin &ndash; which is why they&rsquo;re so
@@ -215,7 +215,7 @@
                 <p><strong>Matrixyl 3000+ Complex, The Fountain of Youth:</strong><br/>
                     The first piece of the anti aging puzzle <strong>Dr. Oz</strong> talked about was <strong>Matrixyl
                         3000+ Complex</strong>.</p>
-                <img class="img-responsive" src="https://d2vym3yylwrzwi.cloudfront.net/Files/ozskin.jpg"/>
+                <img class="img-responsive" src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/ozskin.jpg"/>
                 <h5 class="text-center"><i>&quot;Matrixyl 3000+ Complex is the secret to cheat your age&quot;. -Dr.
                     Oz </i></h5>
 
@@ -226,7 +226,7 @@
                             href="#offerbox"><span>Abella Mayfair 90 Second Rapid Wrinkle Control</span></a> is so
                     effective. It was one of the few products on the market that had Matrixyl 3000+ Complex in the right
                     consistency and dosage.</p>
-                <img class="img-responsive" src="https://d2vym3yylwrzwi.cloudfront.net/Files/test1.jpg"/>
+                <img class="img-responsive" src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/test1.jpg"/>
 
                 <p class="m-t-25"><strong>Argireline:</strong><br/>
                     He said the second piece, when combined properly with Matrixyl 3000+ Complex, literally makes your
@@ -236,7 +236,7 @@
                     stresses, or irritation. He said one of, if not the only products you can buy over the counter with
                     an effective concentration of Argireline was found in <a href="#offerbox"><span>Abella Mayfair Day &amp; Night Cream</span></a>.
                 </p>
-                <img class="img-responsive m-b-30" src="https://d2vym3yylwrzwi.cloudfront.net/Files/test2.jpg"/>
+                <img class="img-responsive m-b-30" src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/test2.jpg"/>
 
                 <p class="small-text">&quot;What the combination of <strong>Matrixyl 3000+ Complex &amp;
                     Argireline</strong> does is get rid of all the old, dead layers of skin and helps your skin generate
@@ -256,7 +256,7 @@
                     concentrations. My team also discovered that they contain all sorts of anti-oxidants, an ingredient
                     called Dermaxyl <strong> (also known as facelift in a jar) </strong> and Ester-C (the active
                     anti-aging compound in Matrixyl 3000+ Complex).</p>
-                <img class="img-responsive" src="https://d2vym3yylwrzwi.cloudfront.net/Files/gfds.jpg"/>
+                <img class="img-responsive" src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/gfds.jpg"/>
                 <h5 class="text-center"><i>&quot;Getting older is rough for any woman, even an actress. Now I feel like
                     a new woman! Thanks Dr. OZ!&quot; </i></h5>
 
@@ -285,7 +285,7 @@
                         <h4>DAY 1</h4>
 
                         <div class="row box-inner">
-                            <div class="col-sm-3"><img class="img-responsive" src="https://d2vym3yylwrzwi.cloudfront.net/Files/eyes1.jpg"/></div>
+                            <div class="col-sm-3"><img class="img-responsive" src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/eyes1.jpg"/></div>
 
                             <div class="col-sm-9 p-l-0 p-l-15-mobile">
                                 <p>&quot;After the first day of using <a href="#offerbox"><span>Abella Mayfair 90 Second Rapid Wrinkle Control</span></a>
@@ -308,7 +308,7 @@
                         <h4>DAY 5</h4>
 
                         <div class="row box-inner">
-                            <div class="col-sm-3"><img class="img-responsive" src="https://d2vym3yylwrzwi.cloudfront.net/Files/eyes2.jpg"/></div>
+                            <div class="col-sm-3"><img class="img-responsive" src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/eyes2.jpg"/></div>
 
                             <div class="col-sm-9 p-l-0 p-l-15-mobile">
                                 <p>&quot;After five days of using <a href="#offerbox"><span>Abella Mayfair 90 Second Rapid Wrinkle Control</span></a>
@@ -326,7 +326,7 @@
                         <h4>DAY 14</h4>
 
                         <div class="row box-inner">
-                            <div class="col-sm-3"><img class="img-responsive" src="https://d2vym3yylwrzwi.cloudfront.net/Files/eyes3.jpg"/></div>
+                            <div class="col-sm-3"><img class="img-responsive" src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/eyes3.jpg"/></div>
 
                             <div class="col-sm-9 p-l-0 p-l-15-mobile">
                                 <p>&quot;After 14 days, not only had all my doubts and scepticism absolutely vanished -
@@ -361,13 +361,13 @@
                         just too old and boring for me now.&quot; </strong> The look on his face was priceless!&quot;
                 </p>
 
-                <p><strong><sup><img src="https://d2vym3yylwrzwi.cloudfront.net/Files/cite.png"/></sup> Before and after picture of Brenda Wright. The picture
+                <p><strong><sup><img src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/cite.png"/></sup> Before and after picture of Brenda Wright. The picture
                     on the right was taken after only 14 days of using <a href="#offerbox"><span>Abella Mayfair 90 Second Rapid Wrinkle Control</span></a>
                     with <a href="#offerbox"><span>Abella Mayfair Day &amp; Night Cream</span></a> <sup><img
-                            src="https://d2vym3yylwrzwi.cloudfront.net/Files/cite2.png"/></sup></strong></p>
+                            src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/cite2.png"/></sup></strong></p>
 
                 <p></p>
-                <img class="img-responsive" src="https://d2vym3yylwrzwi.cloudfront.net/Files/comp1.png"/>
+                <img class="img-responsive" src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/comp1.png"/>
                 <h5 class="text-center"><i><strong>&quot;My skin looks incredible...even younger and smoother than when
                     I was 35 - Thank you Abella Mayfair 90 Second Rapid Wrinkle Control and Abella Mayfair Day &amp;
                     Night Cream!&quot;</strong> the grandma-of-two exclusively told &lsquo;Shape Magazine&rsquo; of her
@@ -413,7 +413,7 @@
 
                 <h5 class="m-b-0 pink-border-bottom">SUBMISSION OF THE MONTH</h5>
                 <a href=""><img class="img-responsive"
-                                                                   src="https://d2vym3yylwrzwi.cloudfront.net/Files/garcinia-cambogia-results-before-and-after-pictures-9242_670.jpg"/>
+                                                                   src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/garcinia-cambogia-results-before-and-after-pictures-9242_670.jpg"/>
                 </a>
 
                 <p class="m-b-5"><a href=""><strong>Beatrice King of age 51 submitted
@@ -431,7 +431,7 @@
                 <!--STEPS-->
 
                 <div class="row revival-box2">
-                    <div><img src="https://d2vym3yylwrzwi.cloudfront.net/Files/checkmark.png" style="vertical-align: bottom; float: left; "/>
+                    <div><img src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/checkmark.png" style="vertical-align: bottom; float: left; "/>
                         <h4 style="padding-top:5px">Step 1:</h4>
                     </div>
 
@@ -440,11 +440,11 @@
                             of Abella Mayfair 90 Second Rapid Wrinkle Control</strong></a></p>
 
                         <div style="text-align: center;"><a href=""><img
-                                src="https://d2vym3yylwrzwi.cloudfront.net/Files/Screenshot%202016-07-19%2021.22.11%20copy2.png" width="217" height="366"/>
+                                src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/Screenshot%202016-07-19%2021.22.11%20copy2.png" width="217" height="366"/>
                         </a></div>
                     </div>
 
-                    <div style="margin-top:30px"><img src="https://d2vym3yylwrzwi.cloudfront.net/Files/checkmark.png"
+                    <div style="margin-top:30px"><img src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/checkmark.png"
                                                       style="vertical-align: middle; float: left; "/>
                         <h4 style="padding-top:5px">Step 2:</h4>
                     </div>
@@ -454,7 +454,7 @@
                             of Abella Mayfair Day &amp; Night Cream</strong></a></p>
 
                         <div style="text-align: center;"><a href=""><img
-                                src="https://d2vym3yylwrzwi.cloudfront.net/Files/Screenshot%202016-07-19%2021.22.56%20copy2.png" width="258" height="180"/>
+                                src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/Screenshot%202016-07-19%2021.22.56%20copy2.png" width="258" height="180"/>
                         </a></div>
                     </div>
 
@@ -485,7 +485,7 @@
 
                 <h5 class="m-b-0 pink-border-bottom">BEFORE &amp; AFTER</h5>
                 <a href=""> <img class="img-responsive"
-                                                                    src="https://d2vym3yylwrzwi.cloudfront.net/Files/commonright2.jpg"/> </a>
+                                                                    src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/commonright2.jpg"/> </a>
 
                 <p class="m-b-5"><i>&quot;The only thing is that I wish I could have watched the Dr. Oz show earlier!
                     The results were so shocking I couldn&rsquo;t believe it&rsquo;s my face. I look 20 years younger
@@ -496,7 +496,7 @@
 
                 <h5 class="m-b-0 pink-border-bottom">BEFORE &amp; AFTER</h5>
                 <a href=""> <img class="img-responsive"
-                                                                    src="https://d2vym3yylwrzwi.cloudfront.net/Files/commonright3.jpg"/> </a>
+                                                                    src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/commonright3.jpg"/> </a>
 
                 <p class="m-b-5"><i>&quot;It&#39;s simply amazing. I can&rsquo;t believe how quickly I saw results. Real
                     results! I literally saw results after the first day. I can&#39;t thank you enough, I have my
@@ -508,7 +508,7 @@
         </div>
 
         <div class="row">
-            <div class="col-xs-12" id="product"><img class="img-responsive" id="offerbox" src="https://d2vym3yylwrzwi.cloudfront.net/Files/offer.jpg"/>
+            <div class="col-xs-12" id="product"><img class="img-responsive" id="offerbox" src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/offer.jpg"/>
 
                 <p class="text-center pink-text m-b-5"><strong>(TRIAL BOTTLES RUN OUT DAILY - CLAIM YOURS NOW BEFORE
                     THEY&#39;RE ALL GONE)</strong></p>
@@ -518,7 +518,7 @@
                 <p><strong style="color:red">IMPORTANT: During Dr. Oz&#39;s clinical testing it was proven that you must
                     combine BOTH products to achieve similar results.</strong></p>
 
-                <p class="update m-b-30"><img src="https://d2vym3yylwrzwi.cloudfront.net/Files/checkmark-green-sm.png"/> <strong>Update:</strong> <span
+                <p class="update m-b-30"><img src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/checkmark-green-sm.png"/> <strong>Update:</strong> <span
                         class="red-text">Only 3 Trials Still Available.</span> Free Trial Promotion Ends:
                     <script language="Javascript">
                         <!--
@@ -542,15 +542,15 @@
                 </p>
 
                 <div class="row revival-box">
-                    <div class="col-sm-4"><img src="https://d2vym3yylwrzwi.cloudfront.net/Files/Screenshot%202016-07-19%2021.22.11%20copy2.png" width="246"
+                    <div class="col-sm-4"><img src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/Screenshot%202016-07-19%2021.22.11%20copy2.png" width="246"
                                                height="434" class="img-responsive rev"/></div>
 
-                    <div class="col-sm-8 revival-text"><img src="https://d2vym3yylwrzwi.cloudfront.net/Files/checkmark.png"
+                    <div class="col-sm-8 revival-text"><img src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/checkmark.png"
                                                             style="vertical-align: middle; float: left; "/>
                         <h4 style="padding-top:5px">STEP 1:<a href=""><span> RECEIVE YOUR FREE BOTTLE OF Abella Mayfair 90 Second Rapid Wrinkle Control</span></a>
                         </h4>
                         <a href=""><img class="img-responsive button"
-                                                                           src="https://d2vym3yylwrzwi.cloudfront.net/Files/button.png"/></a>
+                                                                           src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/button.png"/></a>
 
                         <p class="m-b-5">Take advantage of our exclusive link and pay only <strong> $3.95 </strong> for
                             shipping!</p>
@@ -580,15 +580,15 @@
                 </div>
 
                 <div class="row revival-box">
-                    <div class="col-sm-4"><img src="https://d2vym3yylwrzwi.cloudfront.net/Files/Screenshot%202016-07-19%2021.22.56%20copy2.png" width="204"
+                    <div class="col-sm-4"><img src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/Screenshot%202016-07-19%2021.22.56%20copy2.png" width="204"
                                                height="139" class="img-responsive rev"/></div>
 
-                    <div class="col-sm-8 revival-text"><img src="https://d2vym3yylwrzwi.cloudfront.net/Files/checkmark.png"
+                    <div class="col-sm-8 revival-text"><img src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/checkmark.png"
                                                             style="vertical-align: middle; float: left; "/>
                         <h4 style="padding-top:5px">STEP 2: <a href=""><span>RECEIVE YOUR FREE BOTTLE OF Abella Mayfair Day &amp; Night Cream</span></a>
                         </h4>
                         <a href=""><img class="img-responsive button"
-                                                                           src="https://d2vym3yylwrzwi.cloudfront.net/Files/button.png"/></a>
+                                                                           src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/button.png"/></a>
 
                         <p class="m-b-5">Take advantage of our exclusive link and pay only <strong> $4.95 </strong> for
                             shipping!</p>
@@ -633,7 +633,7 @@
                 <div class="media no-border-top">
                     <div class="media-left"><a href="http://www.facebook.com/tohloria.lewis" target="_blank"><img alt=""
                                                                                                                   class="media-object"
-                                                                                                                  src="https://d2vym3yylwrzwi.cloudfront.net/Files/lewis.jpg"/>
+                                                                                                                  src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/lewis.jpg"/>
                     </a></div>
 
                     <div class="media-body">
@@ -653,7 +653,7 @@
                 <div class="media">
                     <div class="media-left"><a href="http://www.facebook.com/tanyaporquez" target="_blank"><img alt=""
                                                                                                                 class="media-object"
-                                                                                                                src="https://d2vym3yylwrzwi.cloudfront.net/Files/tanya.jpg"/>
+                                                                                                                src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/tanya.jpg"/>
                     </a></div>
 
                     <div class="media-body">
@@ -672,7 +672,7 @@
 
                 <div class="media p-b-0">
                     <div class="media-left"><a href="http://www.facebook.com/jennifer.jacksonmercer"
-                                               target="_blank"><img alt="" class="media-object" src="https://d2vym3yylwrzwi.cloudfront.net/Files/jenni.jpg"/>
+                                               target="_blank"><img alt="" class="media-object" src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/jenni.jpg"/>
                     </a></div>
 
                     <div class="media-body">
@@ -689,7 +689,7 @@
                         <div class="media">
                             <div class="media-left"><a href="http://www.facebook.com/kristy.cash.14"
                                                        target="_blank"><img alt="" class="media-object"
-                                                                            src="https://d2vym3yylwrzwi.cloudfront.net/Files/cash.jpg"/> </a></div>
+                                                                            src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/cash.jpg"/> </a></div>
 
                             <div class="media-body">
                                 <h4 class="media-heading"><a href="http://www.facebook.com/kristy.cash.14"
@@ -707,7 +707,7 @@
 
                 <div class="media">
                     <div class="media-left"><a href="http://www.facebook.com/profile.php?id=30110787"
-                                               target="_blank"><img alt="" class="media-object" src="https://d2vym3yylwrzwi.cloudfront.net/Files/katy.jpg"/>
+                                               target="_blank"><img alt="" class="media-object" src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/katy.jpg"/>
                     </a></div>
 
                     <div class="media-body">
@@ -724,7 +724,7 @@
 
                 <div class="media">
                     <div class="media-left"><a href="http://www.facebook.com/amanda.gibson.1656" target="_blank"><img
-                            alt="" class="media-object" src="https://d2vym3yylwrzwi.cloudfront.net/Files/amanda.jpg"/> </a></div>
+                            alt="" class="media-object" src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/amanda.jpg"/> </a></div>
 
                     <div class="media-body">
                         <h4 class="media-heading"><a href="http://www.facebook.com/amanda.gibson.1656" target="_blank">Amanda
@@ -741,7 +741,7 @@
                 <div class="media">
                     <div class="media-left"><a href="http://www.facebook.com/julie.keyse" target="_blank"><img alt=""
                                                                                                                class="media-object"
-                                                                                                               src="https://d2vym3yylwrzwi.cloudfront.net/Files/julie.jpg"/>
+                                                                                                               src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/julie.jpg"/>
                     </a></div>
 
                     <div class="media-body">
@@ -758,7 +758,7 @@
 
                 <div class="media">
                     <div class="media-left"><a href="http://www.facebook.com/profile.php?id=20904468"
-                                               target="_blank"><img alt="" class="media-object" src="https://d2vym3yylwrzwi.cloudfront.net/Files/sarah.jpg"/>
+                                               target="_blank"><img alt="" class="media-object" src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/sarah.jpg"/>
                     </a></div>
 
                     <div class="media-body">
@@ -777,7 +777,7 @@
                 <div class="media">
                     <div class="media-left"><a href="http://www.facebook.com/kirst.riley" target="_blank"><img alt=""
                                                                                                                class="media-object"
-                                                                                                               src="https://d2vym3yylwrzwi.cloudfront.net/Files/kirs.jpg"/>
+                                                                                                               src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/kirs.jpg"/>
                     </a></div>
 
                     <div class="media-body">
@@ -795,7 +795,7 @@
                 <div class="media">
                     <div class="media-left"><a href="http://www.facebook.com/celia.kilgard" target="_blank"><img alt=""
                                                                                                                  class="media-object"
-                                                                                                                 src="https://d2vym3yylwrzwi.cloudfront.net/Files/celia.jpg"/>
+                                                                                                                 src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/celia.jpg"/>
                     </a></div>
 
                     <div class="media-body">
@@ -813,7 +813,7 @@
                 <div class="media">
                     <div class="media-left"><a href="http://www.facebook.com/alannismartini" target="_blank"><img alt=""
                                                                                                                   class="media-object"
-                                                                                                                  src="https://d2vym3yylwrzwi.cloudfront.net/Files/alanna.jpg"/>
+                                                                                                                  src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/alanna.jpg"/>
                     </a></div>
 
                     <div class="media-body">
@@ -829,7 +829,7 @@
 
                 <div class="media">
                     <div class="media-left"><a href="http://www.facebook.com/alice.chang.129" target="_blank"><img
-                            alt="" class="media-object" src="https://d2vym3yylwrzwi.cloudfront.net/Files/alice.jpg"/> </a></div>
+                            alt="" class="media-object" src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/alice.jpg"/> </a></div>
 
                     <div class="media-body">
                         <h4 class="media-heading"><a href="http://www.facebook.com/alice.chang.129" target="_blank">Alice
@@ -846,7 +846,7 @@
                 <div class="media">
                     <div class="media-left"><a href="http://www.facebook.com/mark.fadlevich" target="_blank"><img alt=""
                                                                                                                   class="media-object"
-                                                                                                                  src="https://d2vym3yylwrzwi.cloudfront.net/Files/mark.jpg"/>
+                                                                                                                  src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/mark.jpg"/>
                     </a></div>
 
                     <div class="media-body">
@@ -864,7 +864,7 @@
                 <div class="media">
                     <div class="media-left"><a href="http://www.facebook.com/ashley.berlin" target="_blank"><img alt=""
                                                                                                                  class="media-object"
-                                                                                                                 src="https://d2vym3yylwrzwi.cloudfront.net/Files/ashley.jpg"/>
+                                                                                                                 src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/ashley.jpg"/>
                     </a></div>
 
                     <div class="media-body">
@@ -884,7 +884,7 @@
                 <div class="media">
                     <div class="media-left"><a href="http://www.facebook.com/amanda.hickam" target="_blank"><img alt=""
                                                                                                                  class="media-object"
-                                                                                                                 src="https://d2vym3yylwrzwi.cloudfront.net/Files/hick.jpg"/>
+                                                                                                                 src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/hick.jpg"/>
                     </a></div>
 
                     <div class="media-body">
@@ -901,7 +901,7 @@
 
                 <div class="media">
                     <div class="media-left"><a href="http://www.facebook.com/brittany.jackson.750" target="_blank"><img
-                            alt="" class="media-object" src="https://d2vym3yylwrzwi.cloudfront.net/Files/brit.jpg"/> </a></div>
+                            alt="" class="media-object" src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/brit.jpg"/> </a></div>
 
                     <div class="media-body">
                         <h4 class="media-heading"><a href="http://www.facebook.com/brittany.jackson.750"
@@ -917,7 +917,7 @@
 
                 <div class="media">
                     <div class="media-left"><a href="http://www.facebook.com/shellie.wilsonhodge" target="_blank"><img
-                            alt="" class="media-object" src="https://d2vym3yylwrzwi.cloudfront.net/Files/shel.jpg"/> </a></div>
+                            alt="" class="media-object" src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/shel.jpg"/> </a></div>
 
                     <div class="media-body">
                         <h4 class="media-heading"><a href="http://www.facebook.com/shellie.wilsonhodge" target="_blank">Shellie
@@ -933,7 +933,7 @@
                 <div class="media">
                     <div class="media-left"><a href="http://www.facebook.com/phongsa" target="_blank"><img alt=""
                                                                                                            class="media-object"
-                                                                                                           src="https://d2vym3yylwrzwi.cloudfront.net/Files/jill.jpg"/>
+                                                                                                           src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/jill.jpg"/>
                     </a></div>
 
                     <div class="media-body">
@@ -951,7 +951,7 @@
 
                 <div class="media">
                     <div class="media-left"><a href="http://www.facebook.com/profile.php?id=20903876"
-                                               target="_blank"><img alt="" class="media-object" src="https://d2vym3yylwrzwi.cloudfront.net/Files/molly.jpg"/>
+                                               target="_blank"><img alt="" class="media-object" src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/molly.jpg"/>
                     </a></div>
 
                     <div class="media-body">
@@ -969,7 +969,7 @@
                 <div class="media">
                     <div class="media-left"><a href="http://www.facebook.com/jenna.p.bush" target="_blank"><img alt=""
                                                                                                                 class="media-object"
-                                                                                                                src="https://d2vym3yylwrzwi.cloudfront.net/Files/jenna.jpg"/>
+                                                                                                                src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/jenna.jpg"/>
                     </a></div>
 
                     <div class="media-body">
@@ -987,7 +987,7 @@
 
                 <div class="media">
                     <div class="media-left"><a href="http://www.facebook.com/laura.k.miranda" target="_blank"><img
-                            alt="" class="media-object" src="https://d2vym3yylwrzwi.cloudfront.net/Files/laura.jpg"/> </a></div>
+                            alt="" class="media-object" src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/laura.jpg"/> </a></div>
 
                     <div class="media-body">
                         <h4 class="media-heading"><a href="http://www.facebook.com/laura.k.miranda" target="_blank">Laura
@@ -1003,7 +1003,7 @@
 
                 <div class="media">
                     <div class="media-left"><a href="http://www.facebook.com/profile.php?id=12919781"
-                                               target="_blank"><img alt="" class="media-object" src="https://d2vym3yylwrzwi.cloudfront.net/Files/sara.jpg"/>
+                                               target="_blank"><img alt="" class="media-object" src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/sara.jpg"/>
                     </a></div>
 
                     <div class="media-body">
@@ -1020,7 +1020,7 @@
 
                 <div class="media">
                     <div class="media-left"><a href="http://www.facebook.com/profile.php?id=722424386"
-                                               target="_blank"><img alt="" class="media-object" src="https://d2vym3yylwrzwi.cloudfront.net/Files/silver.jpg"/>
+                                               target="_blank"><img alt="" class="media-object" src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/silver.jpg"/>
                     </a></div>
 
                     <div class="media-body">
@@ -1037,7 +1037,7 @@
 
                 <div class="media border-bottom">
                     <div class="media-left"><a href="http://vanityonly.com/renue/renue.html#" target="_blank"><img
-                            alt="" class="media-object" src="https://d2vym3yylwrzwi.cloudfront.net/Files/got.jpg"/> </a></div>
+                            alt="" class="media-object" src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/got.jpg"/> </a></div>
 
                     <div class="media-body">
                         <h4 class="media-heading"><a href="">Gotmy Mindframe
@@ -1067,7 +1067,7 @@
                 <p class="text-right">Get Your <strong>FREE</strong> Trial Now!</p>
             </div>
 
-            <div class="col-xs-6 p-l-5" style="width:40% ;"><a class="btn btn-success" href="index.html#product">Claim
+            <div class="col-xs-6 p-l-5" style="width:40% ;"><a class="btn btn-success" href="index.php#product">Claim
                 Yours!</a></div>
         </div>
     </div>
@@ -1095,12 +1095,12 @@
                 <tbody>
                 <tr>
                     <td class="table_1" height="204" width="155"><a href=""><img
-                            src="https://d2vym3yylwrzwi.cloudfront.net/Files/Screenshot%202016-07-19%2021.22.11%20copy2.png" width="176" height="305"/></a>
+                            src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/Screenshot%202016-07-19%2021.22.11%20copy2.png" width="176" height="305"/></a>
                     </td>
                     <td class="table_1" width="155"></td>
                     <td class="table_2" width="155">
                         <p><a href=""><img
-                                src="https://d2vym3yylwrzwi.cloudfront.net/Files/Screenshot%202016-07-19%2021.22.56%20copy2.png" width="204"
+                                src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/Screenshot%202016-07-19%2021.22.56%20copy2.png" width="204"
                                 height="139"/></a></p>
                     </td>
                     <td class="table_3" width="82"></td>
@@ -1108,7 +1108,7 @@
                 </tbody>
             </table>
         </div>
-        <a href=""><img src="https://d2vym3yylwrzwi.cloudfront.net/Rush-me.png"/></a></div>
+        <a href=""><img src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Rush-me.png"/></a></div>
 </div>
 <style type="text/css">.glue_content {
     text-align: center;
