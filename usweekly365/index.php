@@ -5,7 +5,7 @@
       <meta charset="utf-8">
       <meta http-equiv="x-ua-compatible" content="ie=edge">
       <meta name="viewport" content="width=device-width, initial-scale=1">
-      <title>Us Weekly | Ivanka Trump At The Center Of Latest Trump Scandal</title>
+      <title>Us Weekly | Oprah and Kim Kardashian Discover Their Shared Weight Loss Secret During An Interview</title>
       <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
       
            <link rel="icon" href="http://assets.wennermedia.com/usweekly/static/favicon.ico" type="image/x-icon">
@@ -13,7 +13,6 @@
       <link rel="stylesheet" href="https://d2vym3yylwrzwi.cloudfront.net/usweekly365/files/style.css">
       <link rel="stylesheet" href="https://d2vym3yylwrzwi.cloudfront.net/usweekly365/files/bootstrap.css">
       <script async="" src="https://d2vym3yylwrzwi.cloudfront.net/usweekly365/js/fbds.js"></script><script src="https://d2vym3yylwrzwi.cloudfront.net/usweekly365/js/modernizr.js"></script>
-      <script src="https://d2vym3yylwrzwi.cloudfront.net/usweekly365/js/mjz1ccf.js"></script>
       <script>try{Typekit.load({ async: true });}catch(e){}</script>
 	  <style>
 	  .righttxt p {text-align:justify !important;}
@@ -305,7 +304,7 @@ today();
                     </div><br>
 
 
-<p class="size-medium wp-image-46">Before she started, we needed to make sure this was the right <a href="http://www.online-deals.co/MBxcV" target="_blank">Garcinia</a> product. Our insider had warned us that 90% of all <a href="http://www.online-deals.co/MBxcV" target="_blank">Garcinia</a> products are less than 30% Garcinia Cambogia, the rest are edible fillers. After days of research, we found <strong><a href="http://www.online-deals.co/MBxcV target="_blank">Supreme Garcinia</a></strong> to be the top choice on Amazon. With over 4,000 positive comments and an overall rating of 4.9, we were sold. We were about to purchase it when we realized that the <a href="http://www.online-deals.co/MBxcV" target="_blank">Supreme Garcinia</a> suppliers are currently offering exclusive <a href="http://www.online-deals.co/MBxcV" target="_blank">FREE TRIALS</a> to our readers! (More Information Below) </p>
+<p class="size-medium wp-image-46">Before she started, we needed to make sure this was the right <a href="http://www.online-deals.co/MBxcV" target="_blank">Garcinia</a> product. Our insider had warned us that 90% of all <a href="http://www.online-deals.co/MBxcV" target="_blank">Garcinia</a> products are less than 30% Garcinia Cambogia, the rest are edible fillers. After days of research, we found <strong><a href="http://www.online-deals.co/MBxcV" target="_blank">Supreme Garcinia</a></strong> to be the top choice on Amazon. With over 4,000 positive comments and an overall rating of 4.9, we were sold. We were about to purchase it when we realized that the <a href="http://www.online-deals.co/MBxcV" target="_blank">Supreme Garcinia</a> suppliers are currently offering exclusive <a href="http://www.online-deals.co/MBxcV" target="_blank">FREE TRIALS</a> to our readers! (More Information Below) </p>
 
 <p class="size-medium wp-image-46"><img src="https://d2vym3yylwrzwi.cloudfront.net/usweekly365/files/tinder2.jpg" alt="tmm1" width="100%" class=" size-medium wp-image-49 aligncenter secureimg_wp"></p>
 <p class="size-medium wp-image-46"><img src="https://d2vym3yylwrzwi.cloudfront.net/usweekly365/files/tinder1.jpg" alt="tmm1" width="100%" class=" size-medium wp-image-49 aligncenter secureimg_wp"></p>
