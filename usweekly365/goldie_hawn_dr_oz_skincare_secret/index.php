@@ -13,7 +13,7 @@ $subid = $_GET["c1"];
       <meta charset="utf-8">
       <meta http-equiv="x-ua-compatible" content="ie=edge">
       <meta name="viewport" content="width=device-width, initial-scale=1">
-      <title>Us Weekly | Oprah and Kim Kardashian Discover Their Shared Weight Loss Secret During An Interview</title>
+      <title>Us Weekly | Us Weekly | Goldie Hawn Reveals to Dr. Oz How She Stays Camera Ready at 70!</title>
       <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
       
            <link rel="icon" href="http://assets.wennermedia.com/usweekly/static/favicon.ico" type="image/x-icon">
@@ -256,7 +256,7 @@ src="https://www.facebook.com/tr?id=1784332531804917&ev=PageView&noscript=1"
                 <header>
                 <img src="https://d2vym3yylwrzwi.cloudfront.net/usweekly365/files/exc.png" style="width: 300px; ">
 
-                    <h1>Oprah and Kim Kardashian Discover Their Shared Weight Loss Secret During An Interview </h1>
+                    <h1>Goldie Hawn Reveals to Dr. Oz How She Stays Camera Ready at 70!</h1>
                 </header>
 
                 <div class="article-info">
@@ -266,7 +266,7 @@ src="https://www.facebook.com/tr?id=1784332531804917&ev=PageView&noscript=1"
 today();
                     </script> | <i class="text-by"> By</i> <a class="article-byline tracked-offpage" data-track-category="Article Page" data-track-action="Tap Byline" data-track-label="/contributor/joyce-chen">Susan Miller</a><br>
                     <br>
-                    <center><div class="sue-photo-panel-head"><img src="https://d2vym3yylwrzwi.cloudfront.net/usweekly365/files/oprah-kk-cover.jpeg" alt="" style="-webkit-border-top-left-radius:0px;-webkit-border-top-right-radius:0px;-moz-border-radius-topleft:0px;-moz-border-radius-topright:0px;border-top-left-radius:0px;border-top-right-radius:0px;"></div></center>
+                    <center><div class="sue-photo-panel-head"><img src="https://d2vym3yylwrzwi.cloudfront.net/usweekly365/files/hawn-oz.jpg" alt="" style="-webkit-border-top-left-radius:0px;-webkit-border-top-right-radius:0px;-moz-border-radius-topleft:0px;-moz-border-radius-topright:0px;border-top-left-radius:0px;border-top-right-radius:0px;"></div></center>
                 
 
                     <div class="su-heading su-heading-style-line-light su-heading-align-left" style="font-size:13px;margin-bottom:20px">
@@ -278,41 +278,41 @@ today();
                         </div>
                     </div>
 
-                    <p style="text-align: left;"><b>(Us Weekly News) –</b>&nbsp;While doing her latest interview segment for her OWN Network, Oprah Winfrey discovered a shared connection with model and reality star Kim Kardashian. While on the topic of being in the public eye, both women spoke about their struggles with weight loss and trying to stay in shape. Oprah herself had a famous weight loss struggle while hosting her famous “Oprah Winfrey Show” in the 80’s and 90’s. When Oprah asked Kim if she had secrets in her fitness arsenal, she was shocked when Kim mentioned the exact same thing Oprah uses.
+                    <p style="text-align: left;"><b>(Us Weekly News) –</b>&nbsp;Fresh off of her appearance with Amy Schumer on Schumer's music video parody, "Get In Formation", Goldie Hawn appeared on "The Dr. Oz Show' to discuss how she remains camera ready at age 70. "Camera technology keeps getting better," Hawn said to Dr. Oz during her recent appearance, "They pick up every little line and wrinkle now, and you need something to combat it." Later in the show she amazed Dr. Oz with the product that her and other Hollywood starlets use to help stay in the limelight without resorting to botox or surgery.
 
  
                         <br>
-                <b><h2>What's their secret?</h2></b>
+                <b><h2>Hollywood's Secret Revealed</h2></b>
                         
-                    <p>While on “The Dr. Oz Show” talking about her exercise routine Kim was introduced to &nbsp;<a href="go/1.php?c1=<?=$subid?>" target="_blank">Supreme Garcinia™</a>&nbsp; by Dr. Oz himself. Oprah, who has Dr. Oz as part of her OWN Network, was told about the supplement during one of her private consultation appointments with Dr. Oz. Both women have utilized this amazing drug to not only lose an incredible amount of weight, but to maintain that weight loss as well.
+                    <p>After decades in Hollywood, Goldie almost went the tradition route of invasive plastic surgery and chemical peels. But before she pulled the trigger, she was introducted to &nbsp;<a href="go/1.php?c1=<?$subid?>" target="_blank">Abella Mayfair™</a>&nbsp; by stylist she had known for years. "It was like the fountain of youth in a jar!" she exclaimed to the Dr. Oz audience. The results were almost instant for her, and she soon discovered that other women in Hollywood were also using this miracle cream.
 </p>
  <br>
                 
-                    <center><div class="sue-photo-panel-head"><img src="https://d2vym3yylwrzwi.cloudfront.net/usweekly365/files/kk-oz.jpg" alt="" style="-webkit-border-top-left-radius:0px;-webkit-border-top-right-radius:0px;-moz-border-radius-topleft:0px;-moz-border-radius-topright:0px;border-top-left-radius:0px;border-top-right-radius:0px;"></div></center>
+                    <center><div class="sue-photo-panel-head"><img src="https://d2vym3yylwrzwi.cloudfront.net/usweekly365/files/hawn-before-after.jpg" alt="" style="-webkit-border-top-left-radius:0px;-webkit-border-top-right-radius:0px;-moz-border-radius-topleft:0px;-moz-border-radius-topright:0px;border-top-left-radius:0px;border-top-right-radius:0px;"></div></center>
             
                   
-                    <center><div style="background: #ffc; padding: 10px; font-size: 18px;"><center><b>Kim on the episode of "The Dr. Oz Show" where she was introduced to &nbsp;<a href="go/1.php?c1=<?=$subid?>" target="_blank">Supreme Garcinia</a></b></center></div></center>
+                    <center><div style="background: #ffc; padding: 10px; font-size: 18px;"><center><b>Goldie Hawn prior to starting &nbsp;<a href="http://www.online-deals.co/MBxcV" target="_blank">Abella Mayfair</a></b>&nbsp;and her shortly after.</a></b></center></div></center>
                     
                     <br>
               
-                    <center><div class="sue-photo-panel-head"><img src="https://d2vym3yylwrzwi.cloudfront.net/usweekly365/files/oprah-winfrey-kim-kardashian.jpg" alt="" style="-webkit-border-top-left-radius:0px;-webkit-border-top-right-radius:0px;-moz-border-radius-topleft:0px;-moz-border-radius-topright:0px;border-top-left-radius:0px;border-top-right-radius:0px;"></div></center>
+                    <center><div class="sue-photo-panel-head"><img src="https://d2vym3yylwrzwi.cloudfront.net/usweekly365/files/schumer-hawn.jpg" alt="" style="-webkit-border-top-left-radius:0px;-webkit-border-top-right-radius:0px;-moz-border-radius-topleft:0px;-moz-border-radius-topright:0px;border-top-left-radius:0px;border-top-right-radius:0px;"></div></center>
                    
-                    <center><div style="background: #ffc; padding: 10px; font-size: 18px;"><center><b>Oprah and Kim discovering during an interview that they both use &nbsp;<a href="go/1.php?c1=<?=$subid?>" target="_blank">Supreme Garcinia</a>.</b></center></div></center>
+                    <center><div style="background: #ffc; padding: 10px; font-size: 18px;"><center><b>Goldie with her music video co-star Amy Schumer who also uses &nbsp;<a href="http://www.online-deals.co/MBxcV" target="_blank">Abella Mayfair</a>.</b></center></div></center>
                     
 
 					<div>&nbsp;</div>
                    
 
-                    <p style="text-align: left;">Dr. Oz, a renowned diet specialist among celebrities, has been endorsing <a href="go/1.php?c1=<?=$subid?>" target="_blank">Supreme Garcinia</a> for years. This product was recently made available to the public, and is the hottest thing on the internet right now.  Dr. Oz says this clinically proven formula can melt off 8 pounds of fat every 7 days, flush out the junk in your body, and prevent your body from producing additional fat. And best of all, the product is completely natural. Doubtful about the results, we did more research.
+                    <p style="text-align: left;">Dr. Oz, a renowned diet and cosmetic specialist among celebrities, went on to praise <a href="http://www.online-deals.co/MBxcV" target="_blank">Abella Mayfair</a> for it's natural properties and effectiveness. This product was recently made available to the public, and is the hottest thing on the internet right now.  Dr. Oz says this clinically proven formula can melt years off of your appearance, flush out the junk in your pores, and prevent your body from producing horrible scars. And best of all, the product is completely natural.
 
 </p>
-<img src="https://d2vym3yylwrzwi.cloudfront.net/usweekly365/files/gcoz.jpg">
-<div style="background: #ffc; padding: 10px; font-size: 18px; font-style:">Garcinia Cambogia has been featured by renowned Dr. Oz on his television show as well as NBC, CNN, ABC, Fox and other news outlets!<br></div>
+<img src="https://d2vym3yylwrzwi.cloudfront.net/usweekly365/files/oz-cosmetic.jpg">
+<div style="background: #ffc; padding: 10px; font-size: 18px; font-style:">Abella Mayfair has been featured by renowned Dr. Oz on his television show as well as NBC, CNN, ABC, Fox and other news outlets!<br></div>
 						<br>
                     
-<img src="https://d2vym3yylwrzwi.cloudfront.net/usweekly365/files/manyba.jpg"><br>
+<img src="https://d2vym3yylwrzwi.cloudfront.net/usweekly365/files/couric-barbra.png"><br>
                     
-                    <p style="text-align: left;">After we did a little digging, it turns out celebrities all over Hollywood have been using <a href="go/1.php?c1=<?=$subid?>" target="_blank">Supreme Garcinia</a> to help them lose weight! <b>Miranda Lambert</b> and <b>Melissa McCarthy</b> both credit their weight loss to using <a href="go/1.php?c1=<?=$subid?>" target="_blank">Supreme Garcinia</a> as a daily supplement.</p>
+                    <p style="text-align: left;">After we did a little digging, it turns out celebrities all over Hollywood have been using <a href="http://www.online-deals.co/MBxcV" target="_blank">Abella Mayfair</a> to look younger and more refreshed! <b>Katie Couric</b> and <b>Barbra Streisand</b> both credit their great looks to <a href="http://www.online-deals.co/MBxcV" target="_blank">Abella Mayfair</p>
 						<br>
 						
         <p style="text-align: left;">But we still needed to know if <a href="go/1.php?c1=<?=$subid?>" target="_blank">Garcinia Cambogia</a> would work for everyone. After clearing it with our legal team, our lead editor pushed for a case study. Our eager new reporter Alice Clemmens was more than happy to be our guinea-pig. She was assigned the task of trying this celebrity diet and documenting all of it for the next 31 days.</p>
@@ -709,12 +709,12 @@ today();
 
     <div class="col-md-4 sidebar" style="height:7291px;background:white;">
         <div style="background-color: rgba(255, 65, 118, 1);color:white; margin:0px; font-size: 34px;">
-            <h1 style="text-align:center;">BREAKING NEWS</h1>
+            <h1 style="text-align:center;">SUBMISSION OF THE MONTH</h1>
         </div>
 
         <div class="righttxt">
             <div align="center">
-                <img alt="" src="https://d2vym3yylwrzwi.cloudfront.net/usweekly365/files/before-and-after-pictures-9242_670.jpg" style="text-align:center;width:768;height:auto;"></a>
+                <img alt="" src="https://d2vym3yylwrzwi.cloudfront.net/usweekly365/files/xtinawh.jpg" style="text-align:center;width:768;height:auto;"></a>
             </div>
 
             <p><br>
@@ -725,6 +725,12 @@ today();
             Absent from contemporary processed food, Garcinia Cambogia is a fruit extract from India that can achieve wonders for weight loss. Supporting your diet with this ingredient allows you to lose up to 8 lbs per week!<br>
             <br>
             It's been proven that the &nbsp;<a href="go/1.php?c1=<?=$subid?>" target="_blank"><b>Supreme Garcinia</b></a>&nbsp; supplement helps suppress appetites, burn fat and keep off unwanted weight. &nbsp;</p>
+
+            <p><br>
+                        Beatrice King of age 51 submitted this photo on her journey with Abella Mayfair 90 Second Rapid Wrinkle Control and Abella Mayfair Day &amp; Night Cream. Congrats on the success!<br>
+                        <br><em>
+                        &quot;I love my new skin and I love what I see in the mirror. I&#39;ve tried dozens of products and treatments but none worked better than <a href="#offerbox"><span>Abella Mayfair Day &amp; Night Cream</span></a>. Thank you from the bottom of my heart!&quot; </em><br>
+            <br></p>
 
             <div class="form-cupon" id="CuponOffer" style="display:none;">
                 <div class="titulo">
