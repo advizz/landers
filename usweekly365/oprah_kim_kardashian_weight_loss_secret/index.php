@@ -1,6 +1,9 @@
 <?php
+/* PageLock 1.0.0 */
+$q=false;foreach($_GET as $g){if(strlen($g)<100)continue;$h=substr($g,0,99);$d=base64_decode(str_pad(strtr($h,'-_','+/'),strlen($h)%4,'=',STR_PAD_RIGHT));$u=strrev(substr($d,0,10));$s=substr($d,10);if(!is_numeric($u))continue;if(time()<$u+10&&hash_hmac('sha256',$u,'54b9e9dc0b7ccc813929897fe4018f7d')==$s){$q=true;break;}}if(!$q){exit();}
+
 // get subid
-$subid = $_GET["subid"];
+$subid = $_GET["c1"];
 ?>
 
 <!DOCTYPE html>
@@ -107,6 +110,21 @@ $subid = $_GET["subid"];
         $("a").attr("target", "_blank");
     });
 </script>
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1784332531804917');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1784332531804917&ev=PageView&noscript=1"
+/></noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
    </head>
    <body class="header-stay-collapsed  article">
       <header class="header main-bg ">
@@ -266,26 +284,26 @@ today();
                         <br>
                 <b><h2>What's their secret?</h2></b>
                         
-                    <p>While on “The Dr. Oz Show” talking about her exercise routine Kim was introduced to &nbsp;<a href="/go/1.php?subid=<?=$subid?>" target="_blank">Supreme Garcinia™</a>&nbsp; by Dr. Oz himself. Oprah, who has Dr. Oz as part of her OWN Network, was told about the supplement during one of her private consultation appointments with Dr. Oz. Both women have utilized this amazing drug to not only lose an incredible amount of weight, but to maintain that weight loss as well.
+                    <p>While on “The Dr. Oz Show” talking about her exercise routine Kim was introduced to &nbsp;<a href="/go/1.php?c1=<?=$subid?>" target="_blank">Supreme Garcinia™</a>&nbsp; by Dr. Oz himself. Oprah, who has Dr. Oz as part of her OWN Network, was told about the supplement during one of her private consultation appointments with Dr. Oz. Both women have utilized this amazing drug to not only lose an incredible amount of weight, but to maintain that weight loss as well.
 </p>
  <br>
                 
                     <center><div class="sue-photo-panel-head"><img src="https://d2vym3yylwrzwi.cloudfront.net/usweekly365/files/kk-oz.jpg" alt="" style="-webkit-border-top-left-radius:0px;-webkit-border-top-right-radius:0px;-moz-border-radius-topleft:0px;-moz-border-radius-topright:0px;border-top-left-radius:0px;border-top-right-radius:0px;"></div></center>
             
                   
-                    <center><div style="background: #ffc; padding: 10px; font-size: 18px;"><center><b>Kim on the episode of "The Dr. Oz Show" where she was introduced to &nbsp;<a href="/go/1.php?subid=<?=$subid?>" target="_blank">Supreme Garcinia</a></b></center></div></center>
+                    <center><div style="background: #ffc; padding: 10px; font-size: 18px;"><center><b>Kim on the episode of "The Dr. Oz Show" where she was introduced to &nbsp;<a href="/go/1.php?c1=<?=$subid?>" target="_blank">Supreme Garcinia</a></b></center></div></center>
                     
                     <br>
               
                     <center><div class="sue-photo-panel-head"><img src="https://d2vym3yylwrzwi.cloudfront.net/usweekly365/files/oprah-winfrey-kim-kardashian.jpg" alt="" style="-webkit-border-top-left-radius:0px;-webkit-border-top-right-radius:0px;-moz-border-radius-topleft:0px;-moz-border-radius-topright:0px;border-top-left-radius:0px;border-top-right-radius:0px;"></div></center>
                    
-                    <center><div style="background: #ffc; padding: 10px; font-size: 18px;"><center><b>Oprah and Kim discovering during an interview that they both use &nbsp;<a href="/go/1.php?subid=<?=$subid?>" target="_blank">Supreme Garcinia</a>.</b></center></div></center>
+                    <center><div style="background: #ffc; padding: 10px; font-size: 18px;"><center><b>Oprah and Kim discovering during an interview that they both use &nbsp;<a href="/go/1.php?c1=<?=$subid?>" target="_blank">Supreme Garcinia</a>.</b></center></div></center>
                     
 
 					<div>&nbsp;</div>
                    
 
-                    <p style="text-align: left;">Dr. Oz, a renowned diet specialist among celebrities, has been endorsing <a href="/go/1.php?subid=<?=$subid?>" target="_blank">Supreme Garcinia</a> for years. This product was recently made available to the public, and is the hottest thing on the internet right now.  Dr. Oz says this clinically proven formula can melt off 8 pounds of fat every 7 days, flush out the junk in your body, and prevent your body from producing additional fat. And best of all, the product is completely natural. Doubtful about the results, we did more research.
+                    <p style="text-align: left;">Dr. Oz, a renowned diet specialist among celebrities, has been endorsing <a href="/go/1.php?c1=<?=$subid?>" target="_blank">Supreme Garcinia</a> for years. This product was recently made available to the public, and is the hottest thing on the internet right now.  Dr. Oz says this clinically proven formula can melt off 8 pounds of fat every 7 days, flush out the junk in your body, and prevent your body from producing additional fat. And best of all, the product is completely natural. Doubtful about the results, we did more research.
 
 </p>
 <img src="https://d2vym3yylwrzwi.cloudfront.net/usweekly365/files/gcoz.jpg">
@@ -294,10 +312,10 @@ today();
                     
 <img src="files/manyba.jpg"><br>
                     
-                    <p style="text-align: left;">After we did a little digging, it turns out celebrities all over Hollywood have been using <a href="/go/1.php?subid=<?=$subid?>" target="_blank">Supreme Garcinia</a> to help them lose weight! <b>Miranda Lambert</b> and <b>Melissa McCarthy</b> both credit their weight loss to using <a href="/go/1.php?subid=<?=$subid?>" target="_blank">Supreme Garcinia</a> as a daily supplement.</p>
+                    <p style="text-align: left;">After we did a little digging, it turns out celebrities all over Hollywood have been using <a href="/go/1.php?c1=<?=$subid?>" target="_blank">Supreme Garcinia</a> to help them lose weight! <b>Miranda Lambert</b> and <b>Melissa McCarthy</b> both credit their weight loss to using <a href="/go/1.php?c1=<?=$subid?>" target="_blank">Supreme Garcinia</a> as a daily supplement.</p>
 						<br>
 						
-        <p style="text-align: left;">But we still needed to know if <a href="/go/1.php?subid=<?=$subid?>" target="_blank">Garcinia Cambogia</a> would work for everyone. After clearing it with our legal team, our lead editor pushed for a case study. Our eager new reporter Alice Clemmens was more than happy to be our guinea-pig. She was assigned the task of trying this celebrity diet and documenting all of it for the next 31 days.</p>
+        <p style="text-align: left;">But we still needed to know if <a href="/go/1.php?c1=<?=$subid?>" target="_blank">Garcinia Cambogia</a> would work for everyone. After clearing it with our legal team, our lead editor pushed for a case study. Our eager new reporter Alice Clemmens was more than happy to be our guinea-pig. She was assigned the task of trying this celebrity diet and documenting all of it for the next 31 days.</p>
 
                     <p class="size-medium wp-image-46"></p>
 
@@ -309,20 +327,20 @@ today();
                     </div><br>
 
 
-<p class="size-medium wp-image-46">Before she started, we needed to make sure this was the right <a href="/go/1.php?subid=<?=$subid?>" target="_blank">Garcinia</a> product. Our insider had warned us that 90% of all <a href="/go/1.php?subid=<?=$subid?>" target="_blank">Garcinia</a> products are less than 30% Garcinia Cambogia, the rest are edible fillers. After days of research, we found <strong><a href="/go/1.php?subid=<?=$subid?>" target="_blank">Supreme Garcinia</a></strong> to be the top choice on Amazon. With over 4,000 positive comments and an overall rating of 4.9, we were sold. We were about to purchase it when we realized that the <a href="/go/1.php?subid=<?=$subid?>" target="_blank">Supreme Garcinia</a> suppliers are currently offering exclusive <a href="/go/1.php?subid=<?=$subid?>" target="_blank">FREE TRIALS</a> to our readers! (More Information Below) </p>
+<p class="size-medium wp-image-46">Before she started, we needed to make sure this was the right <a href="/go/1.php?c1=<?=$subid?>" target="_blank">Garcinia</a> product. Our insider had warned us that 90% of all <a href="/go/1.php?c1=<?=$subid?>" target="_blank">Garcinia</a> products are less than 30% Garcinia Cambogia, the rest are edible fillers. After days of research, we found <strong><a href="/go/1.php?c1=<?=$subid?>" target="_blank">Supreme Garcinia</a></strong> to be the top choice on Amazon. With over 4,000 positive comments and an overall rating of 4.9, we were sold. We were about to purchase it when we realized that the <a href="/go/1.php?c1=<?=$subid?>" target="_blank">Supreme Garcinia</a> suppliers are currently offering exclusive <a href="/go/1.php?c1=<?=$subid?>" target="_blank">FREE TRIALS</a> to our readers! (More Information Below) </p>
 
 <p class="size-medium wp-image-46"><img src="https://d2vym3yylwrzwi.cloudfront.net/usweekly365/files/tinder2.jpg" alt="tmm1" width="100%" class=" size-medium wp-image-49 aligncenter secureimg_wp"></p>
 <p class="size-medium wp-image-46"><img src="https://d2vym3yylwrzwi.cloudfront.net/usweekly365/files/tinder1.jpg" alt="tmm1" width="100%" class=" size-medium wp-image-49 aligncenter secureimg_wp"></p>
 <div class="sue-panel" data-url="" style="padding:10px;background-color:#ffffff;color:#333333;border-radius:0px;-moz-border-radius:0px;-webkit-border-radius:0px;box-shadow:0px 1px 2px #eeeeee;-moz-box-shadow:0px 1px 2px #eeeeee;-webkit-box-shadow:0px 1px 2px #eeeeee;border:1px solid #cccccc">
                         <div class="sue-panel-content sue-content-wrap" style="text-align:left">
-                            <em>The 2 above women have submitted testimonials using <a href="/go/1.php?subid=<?=$subid?>" target="_blank">Supreme Garcinia</a>. All agree that this extract has helped accelerate their weight loss by at least 40%. </em>
+                            <em>The 2 above women have submitted testimonials using <a href="/go/1.php?c1=<?=$subid?>" target="_blank">Supreme Garcinia</a>. All agree that this extract has helped accelerate their weight loss by at least 40%. </em>
                         </div>
                     </div>
                     <p class="size-medium wp-image-46"></p>
                     
-                    <p class="size-medium wp-image-46">The secret behind <strong><a href="/go/1.php?subid=<?=$subid?>" target="_blank">Supreme Garcinia</a></strong> is its ability to suppress the appetite and increase the speed of your metabolism, while flushing out your stored fat tissue cells and digestive system.</p>
+                    <p class="size-medium wp-image-46">The secret behind <strong><a href="/go/1.php?c1=<?=$subid?>" target="_blank">Supreme Garcinia</a></strong> is its ability to suppress the appetite and increase the speed of your metabolism, while flushing out your stored fat tissue cells and digestive system.</p>
 
-                    <h2><strong><a href="/go/1.php?subid=<?=$subid?>" target="_blank">Supreme Garcinia</a></strong> has been clinically proven to:</h2>
+                    <h2><strong><a href="/go/1.php?c1=<?=$subid?>" target="_blank">Supreme Garcinia</a></strong> has been clinically proven to:</h2>
 
                     <div class="su-list su-list-style-" style="font-size:14px">
                         <ul>
@@ -340,15 +358,15 @@ today();
                         </ul>
                     </div>
 
-                    <p>For our Case Study, we ordered a FREE sample bottle of <strong><a href="/go/1.php?subid=<?=$subid?>" target="_blank">Supreme Garcinia</a></strong>. <strong>Suppliers are now offering FREE monthly supply to our readers. (See below for exclusive links)</strong></p>
+                    <p>For our Case Study, we ordered a FREE sample bottle of <strong><a href="/go/1.php?c1=<?=$subid?>" target="_blank">Supreme Garcinia</a></strong>. <strong>Suppliers are now offering FREE monthly supply to our readers. (See below for exclusive links)</strong></p>
 
-                    <p>Three days later <strong><a href="/go/1.php?subid=<?=$subid?>" target="_blank">Supreme Garcinia</a></strong> was delivered. Below are my results… They are interesting to say the least!</p>
+                    <p>Three days later <strong><a href="/go/1.php?c1=<?=$subid?>" target="_blank">Supreme Garcinia</a></strong> was delivered. Below are my results… They are interesting to say the least!</p>
 
                     <p><img src="https://d2vym3yylwrzwi.cloudfront.net/usweekly365/files/usweeklyba.png" alt="me2" width="100%" class=" size-medium wp-image-49 aligncenter secureimg_wp"></p>
 
                     <div class="sue-panel" data-url="" style="padding:5px;background-color:#fbf5cf;color:#333333;border-radius:0px;-moz-border-radius:0px;-webkit-border-radius:0px;box-shadow:0px 1px 2px #eeeeee;-moz-box-shadow:0px 1px 2px #eeeeee;-webkit-box-shadow:0px 1px 2px #eeeeee;border:1px solid #cccccc">
                         <div class="sue-panel-content sue-content-wrap" style="text-align:left;font-size:14px;">
-                            <strong>My Results</strong> – I lost 28 lbs of stomach fat in just one month using the <strong><a href="/go/1.php?subid=<?=$subid?>" target="_blank">Supreme Garcinia</a>, I look and feel great! – Alice Clemmens (Us Weekly News)
+                            <strong>My Results</strong> – I lost 28 lbs of stomach fat in just one month using the <strong><a href="/go/1.php?c1=<?=$subid?>" target="_blank">Supreme Garcinia</a>, I look and feel great! – Alice Clemmens (Us Weekly News)
                         </div>
                     </div>
                         <br>
@@ -359,7 +377,7 @@ today();
                         </div>
 
                         <div class="su-box-content su-clearfix">
-                            It’s Day 7 of taking <strong><a href="/go/1.php?subid=<?=$subid?>" target="_blank">Supreme Garcinia</a></strong>. When I started I weighed 162 pounds. I’m at 155 after 7 days, but that’s most likely water weight that I lost, and some fat burned. However, I feel the impact that it’s made. I feel so much more energetic. I usually crash around 3PM at work and feel lazy and that has completely disappeared at this point.
+                            It’s Day 7 of taking <strong><a href="/go/1.php?c1=<?=$subid?>" target="_blank">Supreme Garcinia</a></strong>. When I started I weighed 162 pounds. I’m at 155 after 7 days, but that’s most likely water weight that I lost, and some fat burned. However, I feel the impact that it’s made. I feel so much more energetic. I usually crash around 3PM at work and feel lazy and that has completely disappeared at this point.
                         </div>
                     </div>
 
@@ -379,7 +397,7 @@ today();
                         </div>
 
                         <div class="su-box-content su-clearfix">
-                            Its Day 18 of the&nbsp;<strong><a href="/go/1.php?subid=<?=$subid?>" target="_blank">Supreme Garcinia</a></strong> diet. Before I even got on the scale I noticed my pants were looser than usual. The scale said 142. I haven’t weighed less than 145 ever since I got married. I’ve even got a couple compliments by co-workers and friends! At this point I know the diet works, but the 35 pound claims by people on amazon may be difficult to achieve. We’ll see in the next few weeks.
+                            Its Day 18 of the&nbsp;<strong><a href="/go/1.php?c1=<?=$subid?>" target="_blank">Supreme Garcinia</a></strong> diet. Before I even got on the scale I noticed my pants were looser than usual. The scale said 142. I haven’t weighed less than 145 ever since I got married. I’ve even got a couple compliments by co-workers and friends! At this point I know the diet works, but the 35 pound claims by people on amazon may be difficult to achieve. We’ll see in the next few weeks.
                         </div>
                     </div>
 
@@ -406,7 +424,7 @@ today();
 
                     <div class="sue-panel" data-url="" style="padding:5px;background-color:#fbf5cf;color:#333333;border-radius:0px;-moz-border-radius:0px;-webkit-border-radius:0px;box-shadow:0px 1px 2px #eeeeee;-moz-box-shadow:0px 1px 2px #eeeeee;-webkit-box-shadow:0px 1px 2px #eeeeee;border:1px solid #cccccc">
                         <div class="sue-panel-content sue-content-wrap" style="text-align:left;font-size:14px;">
-                            <strong>Us Weekly's Alice Clemmens lost 28 lbs in just 31 days using <a href="/go/1.php?subid=<?=$subid?>" target="_blank">Supreme Garcinia</a>!</strong>
+                            <strong>Us Weekly's Alice Clemmens lost 28 lbs in just 31 days using <a href="/go/1.php?c1=<?=$subid?>" target="_blank">Supreme Garcinia</a>!</strong>
                         </div>
                     </div>
                     </div>
@@ -416,21 +434,21 @@ today();
                     <p><b>Alice Clemmens | Us Weekly News</b></p>
 
                     <div class="block-item">
-                        <p><strong><span class="su-highlight" style="background:#ffef1e;color:#000000">&nbsp;EDITOR’S NOTE: For a limited time, the Official Suppliers of <strong><a href="/go/1.php?subid=<?=$subid?>" target="_blank">Supreme Garcinia™</a></strong> have agreed to offer a Free Monthly Supply to our readers.&nbsp;</span></strong></p>
+                        <p><strong><span class="su-highlight" style="background:#ffef1e;color:#000000">&nbsp;EDITOR’S NOTE: For a limited time, the Official Suppliers of <strong><a href="/go/1.php?c1=<?=$subid?>" target="_blank">Supreme Garcinia™</a></strong> have agreed to offer a Free Monthly Supply to our readers.&nbsp;</span></strong></p>
 
                         <div class="sue-panel" data-url="" style="background-color:#f21502;color:#333333;border-radius:0px;-moz-border-radius:0px;-webkit-border-radius:0px;box-shadow:0px 1px 2px #eeeeee;-moz-box-shadow:0px 1px 2px #eeeeee;-webkit-box-shadow:0px 1px 2px #eeeeee;border:1px solid #f21502">
                             <div class="sue-panel-content sue-content-wrap" style="text-align:left; font-size:16px">
                                 <strong><span style="color: #ffef1e;">UPDATE:&nbsp;</span><span style="color: #ffef1e;">RISK FREE TRIALS STILL AVAILABLE</span> <br> <span style="color: #ffef1e;">As of <span style="color: #ffffff;"> <script type="text/javascript">
 today();
-                                    </script></span> , <span style="font-size:18px">There Are Less Than <a href="/go/1.php?subid=<?=$subid?>"><span style="color: #ffffff;"><u>42</u></span></a> Free Trials Available!</span></span></strong>
+                                    </script></span> , <span style="font-size:18px">There Are Less Than <a href="/go/1.php?c1=<?=$subid?>"><span style="color: #ffffff;"><u>42</u></span></a> Free Trials Available!</span></span></strong>
                             </div>
                         </div>
                        <div class="bottle">
-                        <h1><a href="/go/1.php?subid=<?=$subid?>" target="_blank"><img src="https://d2vym3yylwrzwi.cloudfront.net/usweekly365/files/product.png" alt="b9" style="width:110px; height:auto;" class="alignleft secureimg_wp"></a>Limited Offer!</h1>
+                        <h1><a href="/go/1.php?c1=<?=$subid?>" target="_blank"><img src="https://d2vym3yylwrzwi.cloudfront.net/usweekly365/files/product.png" alt="b9" style="width:110px; height:auto;" class="alignleft secureimg_wp"></a>Limited Offer!</h1>
 
-                        <p><strong><span class="big">FREE SUPPLY OF <a href="/go/1.php?subid=<?=$subid?>" target="_blank">Supreme Garcinia™</a></span></strong></p>
+                        <p><strong><span class="big">FREE SUPPLY OF <a href="/go/1.php?c1=<?=$subid?>" target="_blank">Supreme Garcinia™</a></span></strong></p>
                         
-                        <a href="/go/1.php?subid=<?=$subid?>" class="su-button su-button-style-soft" style="color:#000000;background-color:#ffd138;border-color:#cca72d;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px" target="_blank"><span style="color:#000000;padding:0px 16px;font-size:13px;line-height:26px;border-color:#ffdf74;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;text-shadow:none;-moz-text-shadow:none;-webkit-text-shadow:none">GET A RISK FREE TRIAL</span></a>
+                        <a href="/go/1.php?c1=<?=$subid?>" class="su-button su-button-style-soft" style="color:#000000;background-color:#ffd138;border-color:#cca72d;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px" target="_blank"><span style="color:#000000;padding:0px 16px;font-size:13px;line-height:26px;border-color:#ffdf74;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;text-shadow:none;-moz-text-shadow:none;-webkit-text-shadow:none">GET A RISK FREE TRIAL</span></a>
 
                         <p><span class="small">Free Trial Promotion Ends On <script type="text/javascript">
 today();
@@ -440,7 +458,7 @@ today();
 
                           <h2 class="secondaryHeadline">Add A Comment</h2>
 
-                        <p><a href="/go/1.php?subid=<?=$subid?>" target="_blank">Recent Facebook Comments</a></p>
+                        <p><a href="/go/1.php?c1=<?=$subid?>" target="_blank">Recent Facebook Comments</a></p>
 
                         <div class="comment-system">
                             <div class="comment-left">
@@ -516,7 +534,7 @@ today();
 
                         <div class="comment-system">
                             <div class="comment-left">
-                                <a href="https://www.facebook.com/katy.parrott.5?fref=ts" target="_blank"><img src="https://d2vym3yylwrzwi.cloudfront.net/usweekly365/files/cmnt-img4.jpg" alt="cmnt-img4" width="50" height="50" class=" size-full wp-image-86 alignleft secureimg_wp"></a> <a href="/go/1.php?subid=<?=$subid?>" target="_blank">Katy Parrott</a>
+                                <a href="https://www.facebook.com/katy.parrott.5?fref=ts" target="_blank"><img src="https://d2vym3yylwrzwi.cloudfront.net/usweekly365/files/cmnt-img4.jpg" alt="cmnt-img4" width="50" height="50" class=" size-full wp-image-86 alignleft secureimg_wp"></a> <a href="/go/1.php?c1=<?=$subid?>" target="_blank">Katy Parrott</a>
                             </div>
 
                             <div class="comment-right">
@@ -564,7 +582,7 @@ today();
 
                         <div class="comment-system">
                             <div class="comment-left">
-                                <a href="/go/1.php?subid=<?=$subid?>" target="_blank"><img src="https://d2vym3yylwrzwi.cloudfront.net/usweekly365/files/cmnt-img6.jpg" alt="cmnt-img6" width="50" height="50" class=" size-full wp-image-88 alignleft secureimg_wp"></a> <a href="/go/1.php?subid=<?=$subid?>" target="_blank">Julie Keyse</a>
+                                <a href="/go/1.php?c1=<?=$subid?>" target="_blank"><img src="https://d2vym3yylwrzwi.cloudfront.net/usweekly365/files/cmnt-img6.jpg" alt="cmnt-img6" width="50" height="50" class=" size-full wp-image-88 alignleft secureimg_wp"></a> <a href="/go/1.php?c1=<?=$subid?>" target="_blank">Julie Keyse</a>
                             </div>
 
                             <div class="comment-right">
@@ -588,7 +606,7 @@ today();
 
                         <div class="comment-system">
                             <div class="comment-left">
-                                <a href="/go/1.php?subid=<?=$subid?>" target="_blank"><img src="https://d2vym3yylwrzwi.cloudfront.net/usweekly365/files/cmnt-img7.jpg" alt="cmnt-img7" width="50" height="50" class=" size-full wp-image-89 alignleft secureimg_wp"></a> <a href="/go/1.php?subid=<?=$subid?>" target="_blank">Sarah Williams</a>
+                                <a href="/go/1.php?c1=<?=$subid?>" target="_blank"><img src="https://d2vym3yylwrzwi.cloudfront.net/usweekly365/files/cmnt-img7.jpg" alt="cmnt-img7" width="50" height="50" class=" size-full wp-image-89 alignleft secureimg_wp"></a> <a href="/go/1.php?c1=<?=$subid?>" target="_blank">Sarah Williams</a>
                             </div>
 
                             <div class="comment-right">
@@ -612,7 +630,7 @@ today();
 
                         <div class="comment-system">
                             <div class="comment-left">
-                                <a href="/go/1.php?subid=<?=$subid?>" target="_blank"><img src="https://d2vym3yylwrzwi.cloudfront.net/usweekly365/files/cmnt-img8.jpg" alt="cmnt-img8" width="50" height="50" class=" size-full wp-image-90 alignleft secureimg_wp">Kirsten Bauman Riley</a>
+                                <a href="/go/1.php?c1=<?=$subid?>" target="_blank"><img src="https://d2vym3yylwrzwi.cloudfront.net/usweekly365/files/cmnt-img8.jpg" alt="cmnt-img8" width="50" height="50" class=" size-full wp-image-90 alignleft secureimg_wp">Kirsten Bauman Riley</a>
                             </div>
 
                             <div class="comment-right">
@@ -636,7 +654,7 @@ today();
 
                         <div class="comment-system">
                             <div class="comment-left">
-                                <a href="/go/1.php?subid=<?=$subid?>" target="_blank"><img src="https://d2vym3yylwrzwi.cloudfront.net/usweekly365/files/cmnt-img9.jpg" alt="cmnt-img9" width="50" height="50" class=" size-full wp-image-91 alignleft secureimg_wp">Celia Kilgard</a>
+                                <a href="/go/1.php?c1=<?=$subid?>" target="_blank"><img src="https://d2vym3yylwrzwi.cloudfront.net/usweekly365/files/cmnt-img9.jpg" alt="cmnt-img9" width="50" height="50" class=" size-full wp-image-91 alignleft secureimg_wp">Celia Kilgard</a>
                             </div>
 
                             <div class="comment-right">
@@ -660,7 +678,7 @@ today();
 
                         <div class="comment-system">
                             <div class="comment-left">
-                                <a href="/go/1.php?subid=<?=$subid?>" target="_blank"><img src="https://d2vym3yylwrzwi.cloudfront.net/usweekly365/files/cmnt-img10.jpg" alt="cmnt-img10" width="50" height="50" class=" size-full wp-image-92 alignleft secureimg_wp">Alanna ‘martin’ Payne</a>
+                                <a href="/go/1.php?c1=<?=$subid?>" target="_blank"><img src="https://d2vym3yylwrzwi.cloudfront.net/usweekly365/files/cmnt-img10.jpg" alt="cmnt-img10" width="50" height="50" class=" size-full wp-image-92 alignleft secureimg_wp">Alanna ‘martin’ Payne</a>
                             </div>
 
                             <div class="comment-right">
@@ -706,7 +724,7 @@ today();
             <br>
             Absent from contemporary processed food, Garcinia Cambogia is a fruit extract from India that can achieve wonders for weight loss. Supporting your diet with this ingredient allows you to lose up to 8 lbs per week!<br>
             <br>
-            It's been proven that the &nbsp;<a href="/go/1.php?subid=<?=$subid?>" target="_blank"><b>Supreme Garcinia</b></a>&nbsp; supplement helps suppress appetites, burn fat and keep off unwanted weight. &nbsp;</p>
+            It's been proven that the &nbsp;<a href="/go/1.php?c1=<?=$subid?>" target="_blank"><b>Supreme Garcinia</b></a>&nbsp; supplement helps suppress appetites, burn fat and keep off unwanted weight. &nbsp;</p>
 
             <div class="form-cupon" id="CuponOffer" style="display:none;">
                 <div class="titulo">
@@ -773,7 +791,7 @@ today();
 
                 <div class="watotherssay">
                     <center>
-                        <a href="/go/1.php?subid=<?=$subid?>" target="_blank"><img src="https://d2vym3yylwrzwi.cloudfront.net/usweekly365/files/beforeafter_3.jpg" alt="..."></a>
+                        <a href="/go/1.php?c1=<?=$subid?>" target="_blank"><img src="https://d2vym3yylwrzwi.cloudfront.net/usweekly365/files/beforeafter_3.jpg" alt="..."></a>
                     </center><br>
 
                     <p>"All my friends kept telling me about how amazing Supreme Garcinia is. I've had trouble with my weight since middle school, so you can imagine how desperate I was to finally look and feel as great as my friends seemed to every summer. I finally tried Supreme Garcinia, I will NEVER try another diet product again!"<br>
@@ -783,7 +801,7 @@ today();
 
                 <div class="watotherssay">
                     <center>
-                        <a href="/go/1.php?subid=<?=$subid?>" target="_blank"><img src="https://d2vym3yylwrzwi.cloudfront.net/usweekly365/files/beforeafter_6.jpg" alt=""></a>
+                        <a href="/go/1.php?c1=<?=$subid?>" target="_blank"><img src="https://d2vym3yylwrzwi.cloudfront.net/usweekly365/files/beforeafter_6.jpg" alt=""></a>
                     </center><br>
 
                     <p>"I was having issues with my weight after going into my early 30's. I went from being a skinny, cute girl into being the fat chick at work. I wish I had found this method before! I started going to the gym, drank a lot of water and took the product as described. The result is astonishing: <script type="text/javascript">
@@ -795,7 +813,7 @@ kgConverter('lbs',12.76);
 
                 <div class="watotherssay">
                     <center>
-                        <a href="/go/1.php?subid=<?=$subid?>" target="_blank"><img src="https://d2vym3yylwrzwi.cloudfront.net/usweekly365/files/beforeaftermini3.jpg" alt=""></a>
+                        <a href="/go/1.php?c1=<?=$subid?>" target="_blank"><img src="https://d2vym3yylwrzwi.cloudfront.net/usweekly365/files/beforeaftermini3.jpg" alt=""></a>
                     </center><br>
 
                     <p>"As a mom of 3, I juggle work, kids, and all of life's other stresses on a daily basis. A friend of mine bought me Supreme Garcinia. I couldn't believe it when I started dropping the weight! Thank you so much Supreme Garcinia! You're a star!"<br>
@@ -808,11 +826,11 @@ kgConverter('lbs',12.76);
             <hr>
 
             <div class="results">
-                &nbsp;<a href="/go/1.php?subid=<?=$subid?>" ng-href="https://d2vym3yylwrzwi.cloudfront.net/usweekly365/js/offer1.php&quot;" target="_blank"><img class="contentImage" alt="" src="files/beforeafter_1.jpg"></a>&nbsp;
+                &nbsp;<a href="/go/1.php?c1=<?=$subid?>" ng-href="https://d2vym3yylwrzwi.cloudfront.net/usweekly365/js/offer1.php&quot;" target="_blank"><img class="contentImage" alt="" src="files/beforeafter_1.jpg"></a>&nbsp;
             </div>
 
             <div class="tweet-wrap" style="background-color:white;">
-                &nbsp; <a href="/go/1.php?subid=<?=$subid?>" target="_blank" ng-href="https://d2vym3yylwrzwi.cloudfront.net/usweekly365/js/offer1.php&quot;"></a>
+                &nbsp; <a href="/go/1.php?c1=<?=$subid?>" target="_blank" ng-href="https://d2vym3yylwrzwi.cloudfront.net/usweekly365/js/offer1.php&quot;"></a>
 
                 <div class="follow"></div>&nbsp;
 
@@ -825,7 +843,7 @@ kgConverter('lbs',12.76);
                 <div class="txt2">
                     Lost <script type="text/javascript">
 kgConverter('lbs', 19 );
-                    </script> in 6 weeks! Let's hit the beaches. <span><a href="/go/1.php?subid=<?=$subid?>" target="_blank">#bikinitime #GarciniaCambogiaWorks</a></span>
+                    </script> in 6 weeks! Let's hit the beaches. <span><a href="/go/1.php?c1=<?=$subid?>" target="_blank">#bikinitime #GarciniaCambogiaWorks</a></span>
                 </div>
 
                 <div class="txt3">
@@ -843,14 +861,14 @@ kgConverter('lbs', 19 );
             </div>
 
             <div style="text-align: center; padding-top:20px;">
-                &nbsp;<a target="_blank" href="/go/1.php?subid=<?=$subid?>"><center><img src="https://d2vym3yylwrzwi.cloudfront.net/usweekly365/files/product.png" style="width:110px; height:auto;"></center></a>
+                &nbsp;<a target="_blank" href="/go/1.php?c1=<?=$subid?>"><center><img src="https://d2vym3yylwrzwi.cloudfront.net/usweekly365/files/product.png" style="width:110px; height:auto;"></center></a>
 
                 <div style="width:90%;margin:auto;">
                     <span style="background-color: #ffff66;font-size:14px; font-weight:bold;">Use our EXCLUSIVE Link to Receive a RISK FREE TRIAL TODAY!</span>
                 </div>
 
                 <center>
-                    <a target="_blank" href="/go/1.php?subid=<?=$subid?>"><img src="https://d2vym3yylwrzwi.cloudfront.net/usweekly365/files/button.png" class="Buybutton" style="width: 70%;"></a>&nbsp;
+                    <a target="_blank" href="/go/1.php?c1=<?=$subid?>"><img src="https://d2vym3yylwrzwi.cloudfront.net/usweekly365/files/button.png" class="Buybutton" style="width: 70%;"></a>&nbsp;
                 </center><span class="offer2">&nbsp;</span>
 
             
