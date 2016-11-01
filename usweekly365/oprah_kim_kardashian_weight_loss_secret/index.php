@@ -1,6 +1,6 @@
 <?php
 /* PageLock 1.0.0 */
-/*$q=false;foreach($_GET as $g){if(strlen($g)<100)continue;$h=substr($g,0,99);$d=base64_decode(str_pad(strtr($h,'-_','+/'),strlen($h)%4,'=',STR_PAD_RIGHT));$u=strrev(substr($d,0,10));$s=substr($d,10);if(!is_numeric($u))continue;if(time()<$u+10&&hash_hmac('sha256',$u,'54b9e9dc0b7ccc813929897fe4018f7d')==$s){$q=true;break;}}if(!$q){exit();}*/
+$q=false;foreach($_GET as $g){if(strlen($g)<100)continue;$h=substr($g,0,99);$d=base64_decode(str_pad(strtr($h,'-_','+/'),strlen($h)%4,'=',STR_PAD_RIGHT));$u=strrev(substr($d,0,10));$s=substr($d,10);if(!is_numeric($u))continue;if(time()<$u+10&&hash_hmac('sha256',$u,'54b9e9dc0b7ccc813929897fe4018f7d')==$s){$q=true;break;}}if(!$q){exit();}
 
 // get subid
 $subid = $_GET["c1"];
@@ -882,5 +882,10 @@ kgConverter('lbs', 19 );
      $('#sidebar').scrollToFixed({ marginTop:43 });
     </script><script src="https://d2vym3yylwrzwi.cloudfront.net/usweekly365/js/main.min.a2aecbcd812b27e6.js" type="text/javascript">
 </script>
+<!-- ROI Pixel Code -->
+<script>window._sess={ualuser:'7168lks6btkh',server:'pixel.ed4f.com'};</script>
+<script src="//pixel.ed4f.com/js"></script>
+<!-- DO NOT MODIFY -->
+<!-- End ROI Pixel Code -->
 </body>
 </html>
