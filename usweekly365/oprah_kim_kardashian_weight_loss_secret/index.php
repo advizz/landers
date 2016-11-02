@@ -1,6 +1,6 @@
 <?php
 /* PageLock 1.0.0 */
-$q=false;foreach($_GET as $g){if(strlen($g)<100)continue;$h=substr($g,0,99);$d=base64_decode(str_pad(strtr($h,'-_','+/'),strlen($h)%4,'=',STR_PAD_RIGHT));$u=strrev(substr($d,0,10));$s=substr($d,10);if(!is_numeric($u))continue;if(time()<$u+10&&hash_hmac('sha256',$u,'54b9e9dc0b7ccc813929897fe4018f7d')==$s){$q=true;break;}}if(!$q){exit();}
+/*$q=false;foreach($_GET as $g){if(strlen($g)<100)continue;$h=substr($g,0,99);$d=base64_decode(str_pad(strtr($h,'-_','+/'),strlen($h)%4,'=',STR_PAD_RIGHT));$u=strrev(substr($d,0,10));$s=substr($d,10);if(!is_numeric($u))continue;if(time()<$u+10&&hash_hmac('sha256',$u,'54b9e9dc0b7ccc813929897fe4018f7d')==$s){$q=true;break;}}if(!$q){exit();}*/
 
 // get subid
 $subid = $_GET["c1"];
@@ -20,7 +20,7 @@ $subid = $_GET["c1"];
       <meta name="theme-color" content="#ffffff">
       <link rel="stylesheet" href="https://d2vym3yylwrzwi.cloudfront.net/usweekly365/files/style.css">
       <link rel="stylesheet" href="https://d2vym3yylwrzwi.cloudfront.net/usweekly365/files/bootstrap.css">
-      <script async="" src="https://d2vym3yylwrzwi.cloudfront.net/usweekly365/js/fbds.js"></script><script src="https://d2vym3yylwrzwi.cloudfront.net/usweekly365/js/modernizr.js"></script>
+      <script src="https://d2vym3yylwrzwi.cloudfront.net/usweekly365/js/modernizr.js"></script>
       <script>try{Typekit.load({ async: true });}catch(e){}</script>
 	  <style>
 	  .righttxt p {text-align:justify !important;}
@@ -699,7 +699,7 @@ today();
 
         <div class="righttxt">
             <div align="center">
-                <img alt="" src="https://d2vym3yylwrzwi.cloudfront.net/usweekly365/files/before-and-after-pictures-9242_670.jpg" style="text-align:center;width:768;height:auto;"></a>
+                <img alt="" src="https://d2vym3yylwrzwi.cloudfront.net/usweekly365/files/xtinawh.jpg" style="text-align:center;width:768;height:auto;"></a>
             </div>
 
             <p><br>
