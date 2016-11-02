@@ -10,7 +10,7 @@ $subid = $_GET["c1"];
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://d2vym3yylwrzwi.cloudfront.net/survey/assets/style.css">
-    <link rel="shortcut icon" type="image/png" href="static/favicon.ico">
+    <link rel="shortcut icon" type="image/png" href="assets/favicon.ico">
     <meta name="robots" content="noindex,nofollow">
     <style>
         .big-red {
