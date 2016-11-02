@@ -501,7 +501,7 @@ today();
                             <div class="comment-right">
                                 <div class="profile-content">
                                     <div class="post-text">
-                                        Garcinia is all natural and awesome! And free! You go Ivanka! We love you girl.
+                                        Garcinia is all natural and awesome! And free! You go Kim! We love you girl.
                                     </div>
 
                                     <div>
@@ -597,7 +597,7 @@ today();
                             <div class="comment-right">
                                 <div class="profile-content">
                                     <div class="post-text">
-                                        Actually the whole Kardashian family is on Garcinia Cambogia, Ill try it, see what it does, they are giving free bottles to try, why not.
+                                        Actually the whole Kardashian family is on Garcinia Cambogia, I'll try it, see what it does, they are giving free bottles to try, why not.
                                     </div>
 
                                     <div>
