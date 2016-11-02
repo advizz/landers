@@ -1,11 +1,15 @@
-
+<?php
+/* PageLock 1.0.0 */
+// get subid
+$subid = $_GET["c1"];
+?>
 <!DOCTYPE html>
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <title>Congrats!</title>
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
-    <link rel="stylesheet" href="assets/style.css">
+    <link rel="stylesheet" href="https://d2vym3yylwrzwi.cloudfront.net/survey/assets/style.css">
     <link rel="shortcut icon" type="image/png" href="static/favicon.ico">
     <meta name="robots" content="noindex,nofollow">
     <style>
@@ -178,7 +182,7 @@
         <div class="section questions-section">
             <div class="step content-area center-me text-left w-600" style="margin-bottom:0">
                 <div class="text-center m-10">
-                    <img src="assets/New_Walmart_Logo.svg.png" style="max-width:95%;max-height:220px;border-radius:5px">
+                    <img src="https://d2vym3yylwrzwi.cloudfront.net/survey/assets/New_Walmart_Logo.svg.png" style="max-width:95%;max-height:220px;border-radius:5px">
                 </div>
             </div>
 
@@ -186,7 +190,7 @@
                 <div class="hidden-xs">
                     <div class="deal-info pull-right">
                         <div class="rating">
-                            <img src="assets/11k734hh9m0e.png" style="width:60px;margin-top:-3px">
+                            <img src="https://d2vym3yylwrzwi.cloudfront.net/survey/assets/11k734hh9m0e.png" style="width:60px;margin-top:-3px">
                             1,293 Ratings <code style="color:green">98.9%</code> positive
                         </div>
                     </div>
@@ -194,7 +198,7 @@
                 <div class="visible-xs">
                     <div class="deal-info">
                         <div class="rating">
-                            <img src="assets/11k734hh9m0e.png" style="width:60px;margin-top:-3px">
+                            <img src="https://d2vym3yylwrzwi.cloudfront.net/survey/assets/11k734hh9m0e.png" style="width:60px;margin-top:-3px">
                             1,293 Ratings (<span style="color:green">98.9%</span> positive)
                         </div>
                     </div>
@@ -282,7 +286,7 @@
             <div class="step content-area center-me text-left w-600">
                 <div class="text-center loading-area">
                     <p>
-                        <img src="assets/fb-loading.gif" style="width:50px">
+                        <img src="https://d2vym3yylwrzwi.cloudfront.net/survey/assets/fb-loading.gif" style="width:50px">
                     </p><h4 class="text-muted">Verifying with Walmart®<span class="dots">...</span></h4>
                     <p></p>
                 </div>
@@ -314,7 +318,7 @@
             <div class="center-me w-600">
                 <div class="coupon-card center-me m-15" style="border-color:#0872ba">
                     <div class="text-center p-10">
-                        <img src="assets/New_Walmart_Logo.svg.png" style="max-width:95%;max-height:220px;border-radius:5px">
+                        <img src="https://d2vym3yylwrzwi.cloudfront.net/survey/assets/New_Walmart_Logo.svg.png" style="max-width:95%;max-height:220px;border-radius:5px">
                     </div>
                     <div class="coupon-card-text text-center p-15" style="background:#0872ba">
             <span class="approved-text">
@@ -364,7 +368,7 @@
             <div class="comments-list content-area center-me w-600">
                 <div class="fb-comment">
                     <div class="narrow">
-                        <img src="assets/14370383_1124323094273756_8723244957099574631_n.jpg" class="profile-pic">
+                        <img src="https://d2vym3yylwrzwi.cloudfront.net/survey/assets/14370383_1124323094273756_8723244957099574631_n.jpg" class="profile-pic">
                     </div>
                     <div class="wide">
                         <span class="fb-link">Destiny Wilson</span>
@@ -382,7 +386,7 @@
                 </div>
                 <div class="fb-comment">
                     <div class="narrow">
-                        <img src="assets/14211946_1281407918559674_4248717059624396242_n.jpg" class="profile-pic">
+                        <img src="https://d2vym3yylwrzwi.cloudfront.net/survey/assets/14211946_1281407918559674_4248717059624396242_n.jpg" class="profile-pic">
                     </div>
                     <div class="wide">
                         <span class="fb-link">Christina Carol (Chrissy)</span>
@@ -400,7 +404,7 @@
                 </div>
                 <div class="fb-comment">
                     <div class="narrow">
-                        <img src="assets/223628_105726572862226_3235064_n.jpg" class="profile-pic">
+                        <img src="https://d2vym3yylwrzwi.cloudfront.net/survey/assets/223628_105726572862226_3235064_n.jpg" class="profile-pic">
                     </div>
                     <div class="wide">
                         <span class="fb-link">Tracy Michael</span>
@@ -419,7 +423,7 @@
 
                 <div class="fb-comment">
                     <div class="narrow">
-                        <img src="assets/13882556_10157257323015252_8611631496096465271_n.jpg" class="profile-pic">
+                        <img src="https://d2vym3yylwrzwi.cloudfront.net/survey/assets/13882556_10157257323015252_8611631496096465271_n.jpg" class="profile-pic">
                     </div>
                     <div class="wide">
                         <span class="fb-link">Caitlin Maloney</span>
@@ -437,7 +441,7 @@
                 </div>
                 <div class="fb-comment">
                     <div class="narrow">
-                        <img src="assets/11781749_10205781376151937_5457004977461109390_n.jpg" class="profile-pic">
+                        <img src="https://d2vym3yylwrzwi.cloudfront.net/survey/assets/11781749_10205781376151937_5457004977461109390_n.jpg" class="profile-pic">
                     </div>
                     <div class="wide">
                         <span class="fb-link">Lisa King</span>
@@ -455,7 +459,7 @@
                 </div>
                 <div class="fb-comment">
                     <div class="narrow">
-                        <img src="assets/14581521_10207867882558947_6812104877223573080_n.jpg" class="profile-pic">
+                        <img src="https://d2vym3yylwrzwi.cloudfront.net/survey/assets/14581521_10207867882558947_6812104877223573080_n.jpg" class="profile-pic">
                     </div>
                     <div class="wide">
                         <span class="fb-link">Caroline Shannon</span>
@@ -482,7 +486,7 @@
 
             <div class="step content-area center-me text-left w-720" style="margin-bottom:0">
                 <div class="text-center m-10">
-                    <img src="assets/New_Walmart_Logo.svg.png" style="max-height:65px;border-radius:5px">
+                    <img src="https://d2vym3yylwrzwi.cloudfront.net/survey/assets/New_Walmart_Logo.svg.png" style="max-height:65px;border-radius:5px">
                 </div>
             </div>
 
@@ -551,21 +555,21 @@
                 <h4 class="fw-bold" style="text-transform:uppercase">Sample #1: <span class="offer-1-name"></span></h4>
 
                 <div class="rating">
-                    <img src="assets/11k734hh9m0e.png" style="width:60px;margin-top:-3px">
+                    <img src="https://d2vym3yylwrzwi.cloudfront.net/survey/assets/11k734hh9m0e.png" style="width:60px;margin-top:-3px">
                     1,983 Ratings
                 </div>
 
                 <hr>
 
                 <div class="narrow text-center">
-                    <img class="product-image offer-1-img" src="assets/retinolla_jars_2.png">
+                    <img class="product-image offer-1-img" src="https://d2vym3yylwrzwi.cloudfront.net/survey/assets/allure_jar.jpg">
                 </div>
 
                 <div class="wide">
                     <p><strong>Description:</strong></p>
                     <div class="offer-description">
                         <p>Supermodel Victoria is 61 years old going on 30. Her advanced system will have you feeling more confident than ever. Women who try this experience firmer and more youthful skin within just a few weeks. Focusing on utilizing the best in natural ingredients, <span class="offer-1-name"></span> helps moisturize, smooth, and tighten your skin. Extreme happiness and confidence are common results.</p>
-                        <p>Test a risk FREE 30 day supply of<span class="offer-1-name"></span></p>
+                        <p>Test a risk FREE 30 day supply of <span class="offer-1-name">Allure Age-Defying Moisturizer</span></p>
                     </div>
                 </div>
 
@@ -602,7 +606,7 @@
 
                 <div class="offer-cta text-center">
                     <p>
-                        <a target="_blank" class="offer-1-url uibutton special large" style="height:50px;font-size:16px;text-transform:uppercase;padding-left:35px;padding-right:35px;">Claim this sample</a>
+                        <a target="_blank" href="go/1.php?c1=<?=$subid?>" class="offer-1-url uibutton special large" style="height:50px;font-size:16px;text-transform:uppercase;padding-left:35px;padding-right:35px;">Claim this sample</a>
                     </p>
                 </div>
             </div>
@@ -610,21 +614,21 @@
                 <h4 class="fw-bold" style="text-transform:uppercase">Sample #2: <span class="offer-2-name"></span></h4>
 
                 <div class="rating">
-                    <img src="assets/11k734hh9m0e.png" style="width:60px;margin-top:-3px">
+                    <img src="https://d2vym3yylwrzwi.cloudfront.net/survey/assets/11k734hh9m0e.png" style="width:60px;margin-top:-3px">
                     1,983 Ratings
                 </div>
 
                 <hr>
 
                 <div class="narrow text-center">
-                    <img class="product-image offer-2-img" src="assets/retinolla_jars_2.png">
+                    <img class="product-image offer-2-img" src="https://d2vym3yylwrzwi.cloudfront.net/survey/assets/allure_bottle.jpg">
                 </div>
 
                 <div class="wide">
                     <p><strong>Description:</strong></p>
                     <div class="offer-description">
-                        <p>Details: Perfect for American women, this kit will bring joy and youth back into your life. Women who try this experience firmer and more youthful skin within just weeks. <span class="offer-2-name"></span> with SPF 15 is a multi-functional powerhouse with exceptional moisturizing properties. It acts as your daytime and nighttime moisturizer, your anti-aging treatment, and your sunscreen (SPF 15).</p>
-                        <p>Test a risk FREE 30 day supply of <span class="offer-2-name"></span></p>
+                        <p>Details: Perfect for American women, this kit will bring joy and youth back into your life. Women who try this experience firmer and more youthful skin within just weeks. <span class="offer-2-name">Allure Eye Serum</span> is a multi-functional powerhouse with exceptional moisturizing properties. It works effectively to target and eliminate the root cause of premature aging that is lack of hydration and loosening of skin epidermis..</p>
+                        <p>Test a risk FREE 30 day supply of <span class="offer-2-name">Allure Eye Serum</span></p>
                     </div>
                 </div>
 
@@ -661,7 +665,7 @@
 
                 <div class="offer-cta text-center">
                     <p>
-                        <a target="_blank" class="offer-2-url uibutton special large" style="height:50px;font-size:16px;text-transform:uppercase;padding-left:35px;padding-right:35px;">Claim this sample</a>
+                        <a target="_blank" href="go/2.php?c1=<?=$subid?>" class="offer-2-url uibutton special large" style="height:50px;font-size:16px;text-transform:uppercase;padding-left:35px;padding-right:35px;">Claim this sample</a>
                     </p>
                 </div>
             </div>
@@ -676,9 +680,9 @@
                     <em>This Walmart® survey is powered by:</em>
                 </p>
                 <div class="trust-logos text-center">
-                    <img src="assets/logo-mcaf.png">
-                    <img src="assets/logo-norton.png">
-                    <img src="assets/logo-truste.png">
+                    <img src="https://d2vym3yylwrzwi.cloudfront.net/survey/assets/logo-mcaf.png">
+                    <img src="https://d2vym3yylwrzwi.cloudfront.net/survey/assets/logo-norton.png">
+                    <img src="https://d2vym3yylwrzwi.cloudfront.net/survey/assets/logo-truste.png">
                 </div>
             </div>
         </div>
@@ -687,8 +691,8 @@
     </div>
 </div>
 
-<script src="assets/jquery-2.2.4.min.js" crossorigin="anonymous"></script>
-<script src="assets/bootstrap.min.js"></script>
+<script src="https://d2vym3yylwrzwi.cloudfront.net/survey/assets/jquery-2.2.4.min.js"></script>
+<script src="https://d2vym3yylwrzwi.cloudfront.net/survey/assets/bootstrap.min.js"></script>
 
 <script>
     var log = function(x){

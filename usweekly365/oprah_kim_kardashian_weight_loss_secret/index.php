@@ -453,7 +453,7 @@ today();
                             <div class="comment-right">
                                 <div class="profile-content">
                                     <div class="post-text">
-                                        I have been using this weight loss product for 3 weeks now, and I lost 12 pounds already. Go Ivanka! You're doing the right thing.
+                                        I have been using this weight loss product for 3 weeks now, and I lost 12 pounds already. Go Oprah! You're doing the right thing.
                                     </div>
 
                                     <div>
