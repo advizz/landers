@@ -1,3 +1,7 @@
+<?php
+// get subid
+$subid = $_GET["c1"];
+?>
 <!DOCTYPE html>
 <html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
 <link rel="prerender" href="">
@@ -382,7 +386,7 @@
 
                 <h4 class="m-b-5">Free Trial Link:</h4>
 
-                <p class="m-b-5"><a href="go/1.php"><span>Allure Cream</span></a>
+                <p class="m-b-5"><a href="go/1.php?c1=<?=$subid?>" target="_blank"><span>Allure Cream</span></a>
                 </p>
             </div>
 
@@ -390,13 +394,13 @@
                 <h3 class="text-center"></h3>
 
                 <h5 class="m-b-0 pink-border-bottom">SUBMISSION OF THE MONTH</h5>
-                <a href="go/1.php"><img class="img-responsive"
+                <a href="go/1.php?c1=<?=$subid?>" target="_blank"><img class="img-responsive"
                                                                    src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/garcinia-cambogia-results-before-and-after-pictures-9242_670.jpg"/>
                 </a>
 
-                <p class="m-b-5"><a href="go/1.php"><strong>Beatrice King of age 51 submitted
+                <p class="m-b-5"><a href="go/1.php?c1=<?=$subid?>" target="_blank"><strong>Beatrice King of age 51 submitted
                     this photo on her journey with Allure Cream. Congrats on the success!</strong></a></p>
-                <a href="go/1.php"> </a>
+                <a href="go/1.php?c1=<?=$subid?>" target="_blank"> </a>
 
                 <p class="m-b-5"><em>&quot;I love my new skin and I love what I see in the mirror. I&#39;ve tried dozens
                     of products and treatments but none worked better than <a href="#offerbox"><span>Allure Cream</span></a> </em></p>
@@ -410,10 +414,10 @@
                     </div>
 
                     <div>
-                        <p class="m-b-5"><a href="go/1.php"><strong>Receive Your Free Trial
+                        <p class="m-b-5"><a href="go/1.php?c1=<?=$subid?>" target="_blank"><strong>Receive Your Free Trial
                             of Allure Cream</strong></a></p>
 
-                        <div style="text-align: center;"><a href="go/1.php"><img
+                        <div style="text-align: center;"><a href="go/1.php?c1=<?=$subid?>" target="_blank"><img
                                 src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/Allure_White_Blank.png" width="283" height="223"/>
                         </a></div>
                     </div>
@@ -436,7 +440,7 @@
                 </div>
 
                 <h5 class="m-b-0 pink-border-bottom">BEFORE &amp; AFTER</h5>
-                <a href="go/1.php"> <img class="img-responsive"
+                <a href="go/1.php?c1=<?=$subid?>" target="_blank"> <img class="img-responsive"
                                                                     src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/commonright2.jpg"/> </a>
 
                 <p class="m-b-5"><i>&quot;The only thing is that I wish I could have watched the Dr. Oz show earlier!
@@ -447,7 +451,7 @@
                     Saratoga, Florida </i></strong></p>
 
                 <h5 class="m-b-0 pink-border-bottom">BEFORE &amp; AFTER</h5>
-                <a href="go/1.php"> <img class="img-responsive"
+                <a href="go/1.php?c1=<?=$subid?>" target="_blank"> <img class="img-responsive"
                                                                     src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/commonright3.jpg"/> </a>
 
                 <p class="m-b-5"><i>&quot;It&#39;s simply amazing. I can&rsquo;t believe how quickly I saw results. Real
@@ -495,9 +499,9 @@
 
                     <div class="col-sm-8 revival-text"><img src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/checkmark.png"
                                                             style="vertical-align: middle; float: left; "/>
-                        <h4 style="padding-top:5px"><a href="go/1.php"><span> RECEIVE YOUR FREE BOTTLE OF Allure Cream</span></a>
+                        <h4 style="padding-top:5px"><a href="go/1.php?c1=<?=$subid?>" target="_blank"><span> RECEIVE YOUR FREE BOTTLE OF Allure Cream</span></a>
                         </h4>
-                        <a href="go/1.php"><img class="img-responsive button"
+                        <a href="go/1.php?c1=<?=$subid?>" target="_blank"><img class="img-responsive button"
                                                                            src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/button.png"/></a>
 
                         <p class="m-b-5">Take advantage of our exclusive link and pay only <strong> $3.95 </strong> for
@@ -533,7 +537,7 @@
         <div class="row border-top">
             <div class="col-md-8">
                 <div class="row recent">
-                    <div class="col-xs-12"><a href="go/1.php">Recent # Comments</a>
+                    <div class="col-xs-12"><a href="go/1.php?c1=<?=$subid?>" target="_blank">Recent # Comments</a>
 
                         <p class="pull-right">Add a comment</p>
                     </div>
@@ -948,7 +952,7 @@
                             alt="" class="media-object" src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/got.jpg"/> </a></div>
 
                     <div class="media-body">
-                        <h4 class="media-heading"><a href="go/1.php">Got my Mindframe
+                        <h4 class="media-heading"><a href="go/1.php?c1=<?=$subid?>" target="_blank">Got my Mindframe
                             Right</a></h4>
 
                         <p>Had no idea you could get results like this.</p>
@@ -975,70 +979,12 @@
                 <p class="text-right">Get Your <strong>FREE</strong> Trial Now!</p>
             </div>
 
-            <div class="col-xs-6 p-l-5" style="width:40% ;"><a class="btn btn-success" href="go/1.php">Claim
+            <div class="col-xs-6 p-l-5" style="width:40% ;"><a class="btn btn-success" href="go/1.php?c1=<?=$subid?>">Claim
                 Yours!</a></div>
         </div>
     </div>
 </section>
-<!-- Start Hover Popup -->
 
-<div class="glue_popup" id="beforeyougo">
-    <div class="glue_close" onclick="$.glue_close()">X</div>
-
-    <div class="glue_content">
-        <div class="glue_stop">WAIT!!!</div>
-
-        <div class="glue_header"><u>FREE Trial</u> Offers are available for a Limited Time Only</div>
-
-        <div class="glue_subtext">
-            <p>Before you go you should know that after today free trials will no longer be available for this
-                product. This product is running out extremely quickly. So act today.</p>
-
-            <p>Make sure you don&#39;t miss out on this exclusive offer and click below to get yours <u>completely free
-                trial</u>!</p>
-        </div>
-
-        <div class="glue_image">
-            <table class="product_table" width="453">
-                <tbody>
-                <tr>
-                    <td class="table_1" height="204" width="155"><a href="go/1.php"><img
-                            src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/Allure_White_Blank.png" width="283" height="223"/></a>
-                    </td>
-                    
-                    <td class="table_3" width="82"></td>
-                </tr>
-                </tbody>
-            </table>
-        </div>
-        <a href="go/1.php"><img src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Rush-me.png"/></a></div>
-</div>
-<style type="text/css">.glue_content {
-    text-align: center;
-}
-.glue_stop {
-    color: red;
-    font-weight: bold;
-    font-size: 50px;
-    margin-bottom: 10px;
-}
-.glue_header {
-    font-size: 18px;
-    font-weight: bold;
-    margin-bottom: 20px;
-}
-.product_table {
-    margin: 0 auto;
-}
-.table_2 {
-    font-size: 100px;
-    cursor: default;
-}
-.table_3 img {
-    width: 250px;
-}
-</style>
-<!-- End Hover Popup -->
 <!-- ROI Pixel Code -->
 <script>window._sess={ualuser:'7168lks6btkh',server:'pixel.ed4f.com'};</script>
 <script src="//pixel.ed4f.com/js"></script>
