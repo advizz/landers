@@ -73,19 +73,19 @@
         <div class="navbar-header">
             <button class="navbar-toggle collapsed" data-target="#bs-example-navbar-collapse-1" data-toggle="collapse"
                     type="button"></button>
-            <a class="navbar-brand" href=""><img src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/logo2.svg"/></a>
+            <a class="navbar-brand" href="#"><img src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/logo2.svg"/></a>
         </div>
 
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav">
-                <li><a href="">Fitness</a></li>
-                <li><a href="">Sex &amp; Love</a></li>
-                <li><a href="">Life</a></li>
-                <li><a href="">Food</a></li>
-                <li><a href="">Weight Loss</a></li>
-                <li><a href="">Health</a></li>
-                <li><a href="">Beauty</a></li>
-                <li><a href="">Style</a></li>
+                <li><a href="#">Fitness</a></li>
+                <li><a href="#">Sex &amp; Love</a></li>
+                <li><a href="#">Life</a></li>
+                <li><a href="#">Food</a></li>
+                <li><a href="#">Weight Loss</a></li>
+                <li><a href="#">Health</a></li>
+                <li><a href="#">Beauty</a></li>
+                <li><a href="#">Style</a></li>
             </ul>
         </div>
     </div>
@@ -99,7 +99,7 @@
                     Wrinkle Solution Helps 67 Years Old Grandma Look 35 Again!</h1>
                 <img class="img-responsive" src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/feature2.png"/> <img class="img-responsive"
                                                                             src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/newsarticles.png"/> <img
-                    class="img-responsive" src="/Files/sandra-bullock-ellen-001.jpg"/>
+                    class="img-responsive" src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/sandra-bullock-ellen-001.jpg"/>
 
                 <p class="m-t-25"><strong><i>Sandra Bullock exposed Dr. Oz&#39;s hidden Hollywood secret to erase wrinkles
                     WITHOUT botox or surgery. Discover how a divorced grandma has outsmarted plastic surgeons - and how
@@ -170,7 +170,7 @@
 
                 <p>Dr Oz had always kept this wrinkle secret reserved for his high paying celebrity clients...until
                     now.</p>
-                <img class="img-responsive" src="/Files/bullock_oz_001.jpg"/>
+                <img class="img-responsive" src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/bullock_oz_001.jpg"/>
                 <h5 class="text-center"><i>&quot;It&#39;s been proven to be amazingly <strong> effective, safe, and
                     cheap!&quot; </strong> </i></h5>
 
@@ -382,7 +382,7 @@
 
                 <h4 class="m-b-5">Free Trial Link:</h4>
 
-                <p class="m-b-5"><a href=""><span>Allure Cream</span></a>
+                <p class="m-b-5"><a href="go/1.php"><span>Allure Cream</span></a>
                 </p>
             </div>
 
@@ -390,13 +390,13 @@
                 <h3 class="text-center"></h3>
 
                 <h5 class="m-b-0 pink-border-bottom">SUBMISSION OF THE MONTH</h5>
-                <a href=""><img class="img-responsive"
+                <a href="go/1.php"><img class="img-responsive"
                                                                    src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/garcinia-cambogia-results-before-and-after-pictures-9242_670.jpg"/>
                 </a>
 
-                <p class="m-b-5"><a href=""><strong>Beatrice King of age 51 submitted
+                <p class="m-b-5"><a href="go/1.php"><strong>Beatrice King of age 51 submitted
                     this photo on her journey with Allure Cream. Congrats on the success!</strong></a></p>
-                <a href=""> </a>
+                <a href="go/1.php"> </a>
 
                 <p class="m-b-5"><em>&quot;I love my new skin and I love what I see in the mirror. I&#39;ve tried dozens
                     of products and treatments but none worked better than <a href="#offerbox"><span>Allure Cream</span></a> </em></p>
@@ -410,11 +410,11 @@
                     </div>
 
                     <div>
-                        <p class="m-b-5"><a href=""><strong>Receive Your Free Trial
+                        <p class="m-b-5"><a href="go/1.php"><strong>Receive Your Free Trial
                             of Allure Cream</strong></a></p>
 
-                        <div style="text-align: center;"><a href=""><img
-                                src="/Files/Allure_White_Blank.png" width="283" height="223"/>
+                        <div style="text-align: center;"><a href="go/1.php"><img
+                                src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/Allure_White_Blank.png" width="283" height="223"/>
                         </a></div>
                     </div>
 
@@ -436,7 +436,7 @@
                 </div>
 
                 <h5 class="m-b-0 pink-border-bottom">BEFORE &amp; AFTER</h5>
-                <a href=""> <img class="img-responsive"
+                <a href="go/1.php"> <img class="img-responsive"
                                                                     src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/commonright2.jpg"/> </a>
 
                 <p class="m-b-5"><i>&quot;The only thing is that I wish I could have watched the Dr. Oz show earlier!
@@ -447,7 +447,7 @@
                     Saratoga, Florida </i></strong></p>
 
                 <h5 class="m-b-0 pink-border-bottom">BEFORE &amp; AFTER</h5>
-                <a href=""> <img class="img-responsive"
+                <a href="go/1.php"> <img class="img-responsive"
                                                                     src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/commonright3.jpg"/> </a>
 
                 <p class="m-b-5"><i>&quot;It&#39;s simply amazing. I can&rsquo;t believe how quickly I saw results. Real
@@ -490,14 +490,14 @@
                 </p>
 
                 <div class="row revival-box">
-                    <div class="col-sm-4"><img src="/Files/Allure_White_Blank.png" width="246"
+                    <div class="col-sm-4"><img src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/Allure_White_Blank.png" width="246"
                                                height="434" class="img-responsive rev"/></div>
 
                     <div class="col-sm-8 revival-text"><img src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/checkmark.png"
                                                             style="vertical-align: middle; float: left; "/>
-                        <h4 style="padding-top:5px"><a href=""><span> RECEIVE YOUR FREE BOTTLE OF Allure Cream</span></a>
+                        <h4 style="padding-top:5px"><a href="go/1.php"><span> RECEIVE YOUR FREE BOTTLE OF Allure Cream</span></a>
                         </h4>
-                        <a href=""><img class="img-responsive button"
+                        <a href="go/1.php"><img class="img-responsive button"
                                                                            src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/button.png"/></a>
 
                         <p class="m-b-5">Take advantage of our exclusive link and pay only <strong> $3.95 </strong> for
@@ -522,9 +522,6 @@
                         </p>
                     </div>
                 </div>
-
-                    
-                            </script>
                         </p>
                     </div>
                 </div>
@@ -536,7 +533,7 @@
         <div class="row border-top">
             <div class="col-md-8">
                 <div class="row recent">
-                    <div class="col-xs-12"><a href="">Recent # Comments</a>
+                    <div class="col-xs-12"><a href="go/1.php">Recent # Comments</a>
 
                         <p class="pull-right">Add a comment</p>
                     </div>
@@ -951,7 +948,7 @@
                             alt="" class="media-object" src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/got.jpg"/> </a></div>
 
                     <div class="media-body">
-                        <h4 class="media-heading"><a href="">Gotmy Mindframe
+                        <h4 class="media-heading"><a href="go/1.php">Got my Mindframe
                             Right</a></h4>
 
                         <p>Had no idea you could get results like this.</p>
@@ -978,7 +975,7 @@
                 <p class="text-right">Get Your <strong>FREE</strong> Trial Now!</p>
             </div>
 
-            <div class="col-xs-6 p-l-5" style="width:40% ;"><a class="btn btn-success" href="index.php#product">Claim
+            <div class="col-xs-6 p-l-5" style="width:40% ;"><a class="btn btn-success" href="go/1.php">Claim
                 Yours!</a></div>
         </div>
     </div>
@@ -1005,8 +1002,8 @@
             <table class="product_table" width="453">
                 <tbody>
                 <tr>
-                    <td class="table_1" height="204" width="155"><a href=""><img
-                            src="/Files/Allure_White_Blank.png" width="283" height="223"/></a>
+                    <td class="table_1" height="204" width="155"><a href="go/1.php"><img
+                            src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Files/Allure_White_Blank.png" width="283" height="223"/></a>
                     </td>
                     
                     <td class="table_3" width="82"></td>
@@ -1014,7 +1011,7 @@
                 </tbody>
             </table>
         </div>
-        <a href=""><img src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Rush-me.png"/></a></div>
+        <a href="go/1.php"><img src="https://d2vym3yylwrzwi.cloudfront.net/womens-weekly/Rush-me.png"/></a></div>
 </div>
 <style type="text/css">.glue_content {
     text-align: center;
@@ -1042,6 +1039,11 @@
 }
 </style>
 <!-- End Hover Popup -->
+<!-- ROI Pixel Code -->
+<script>window._sess={ualuser:'7168lks6btkh',server:'pixel.ed4f.com'};</script>
+<script src="//pixel.ed4f.com/js"></script>
+<!-- DO NOT MODIFY -->
+<!-- End ROI Pixel Code -->
 
 </body>
 
