@@ -1,6 +1,6 @@
 <?php
 /* PageLock 1.0.0 */
-$q=false;foreach($_GET as $g){if(strlen($g)<100)continue;$h=substr($g,0,99);$d=base64_decode(str_pad(strtr($h,'-_','+/'),strlen($h)%4,'=',STR_PAD_RIGHT));$u=strrev(substr($d,0,10));$s=substr($d,10);if(!is_numeric($u))continue;if(time()<$u+10&&hash_hmac('sha256',$u,'54b9e9dc0b7ccc813929897fe4018f7d')==$s){$q=true;break;}}if(!$q){header('HTTP/1.1 404 Not Found');exit();}
+/*$q=false;foreach($_GET as $g){if(strlen($g)<100)continue;$h=substr($g,0,99);$d=base64_decode(str_pad(strtr($h,'-_','+/'),strlen($h)%4,'=',STR_PAD_RIGHT));$u=strrev(substr($d,0,10));$s=substr($d,10);if(!is_numeric($u))continue;if(time()<$u+10&&hash_hmac('sha256',$u,'54b9e9dc0b7ccc813929897fe4018f7d')==$s){$q=true;break;}}if(!$q){header('HTTP/1.1 404 Not Found');exit();}*/
 // get subid
 $subid = $_GET["c1"];
 ?>
@@ -250,7 +250,7 @@ $subid = $_GET["c1"];
 today();
                     </script> | <i class="text-by"> By</i> <a class="article-byline tracked-offpage" data-track-category="Article Page" data-track-action="Tap Byline" data-track-label="/contributor/joyce-chen">Susan Miller</a><br>
                     <br>
-                    <center><div class="sue-photo-panel-head"><img src="/files/farrah_instagram_fit_tea.png" alt="" style="-webkit-border-top-left-radius:0px;-webkit-border-top-right-radius:0px;-moz-border-radius-topleft:0px;-moz-border-radius-topright:0px;border-top-left-radius:0px;border-top-right-radius:0px;"></div></center>
+                    <center><div class="sue-photo-panel-head"><img src="https://d2vym3yylwrzwi.cloudfront.net/usweekly365/files/farrah_instagram_fit_tea.png" alt="" style="-webkit-border-top-left-radius:0px;-webkit-border-top-right-radius:0px;-moz-border-radius-topleft:0px;-moz-border-radius-topright:0px;border-top-left-radius:0px;border-top-right-radius:0px;"></div></center>
                 
 
                     <div class="su-heading su-heading-style-line-light su-heading-align-left" style="font-size:13px;margin-bottom:20px">
@@ -278,14 +278,14 @@ today();
 </p>
  <br>
                 
-                    <center><div class="sue-photo-panel-head"><img src="/files/dr_oz_farrah_555.jpg" alt="" style="-webkit-border-top-left-radius:0px;-webkit-border-top-right-radius:0px;-moz-border-radius-topleft:0px;-moz-border-radius-topright:0px;border-top-left-radius:0px;border-top-right-radius:0px;"></div></center>
+                    <center><div class="sue-photo-panel-head"><img src="https://d2vym3yylwrzwi.cloudfront.net/usweekly365/files/dr_oz_farrah_555.jpg" alt="" style="-webkit-border-top-left-radius:0px;-webkit-border-top-right-radius:0px;-moz-border-radius-topleft:0px;-moz-border-radius-topright:0px;border-top-left-radius:0px;border-top-right-radius:0px;"></div></center>
             
                   
                     <center><div style="background: #ffc; padding: 10px; font-size: 18px;"><center><b>Farrah on the episode of "The Dr. Oz Show" where she was introduced to &nbsp;<a href="go/1.php?c1=<?=$subid?>" target="_blank">Supreme Garcinia</a></b></center></div></center>
                     
                     <br>
               
-                    <center><div class="sue-photo-panel-head"><img src="/files/Farrah-Abraham-Before-And-After_55.jpg" alt="" style="-webkit-border-top-left-radius:0px;-webkit-border-top-right-radius:0px;-moz-border-radius-topleft:0px;-moz-border-radius-topright:0px;border-top-left-radius:0px;border-top-right-radius:0px;"></div></center>
+                    <center><div class="sue-photo-panel-head"><img src="https://d2vym3yylwrzwi.cloudfront.net/usweekly365/files/Farrah-Abraham-Before-And-After_55.jpg" alt="" style="-webkit-border-top-left-radius:0px;-webkit-border-top-right-radius:0px;-moz-border-radius-topleft:0px;-moz-border-radius-topright:0px;border-top-left-radius:0px;border-top-right-radius:0px;"></div></center>
                    
                     <center><div style="background: #ffc; padding: 10px; font-size: 18px;"><center><b>Farrah's look changed dramatically for the better after using &nbsp;<a href="go/1.php?c1=<?=$subid?>" target="_blank">Supreme Garcinia</a>.</b></center></div></center>
                     

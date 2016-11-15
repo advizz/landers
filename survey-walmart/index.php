@@ -168,7 +168,26 @@ $subid = $_GET["c1"];
             border-radius: 5px;
         }
     </style>
+    <!-- start Mixpanel --><script type="text/javascript">(function(e,a){if(!a.__SV){var b=window;try{var c,l,i,j=b.location,g=j.hash;c=function(a,b){return(l=a.match(RegExp(b+"=([^&]*)")))?l[1]:null};g&&c(g,"state")&&(i=JSON.parse(decodeURIComponent(c(g,"state"))),"mpeditor"===i.action&&(b.sessionStorage.setItem("_mpcehash",g),history.replaceState(i.desiredHash||"",e.title,j.pathname+j.search)))}catch(m){}var k,h;window.mixpanel=a;a._i=[];a.init=function(b,c,f){function e(b,a){var c=a.split(".");2==c.length&&(b=b[c[0]],a=c[1]);b[a]=function(){b.push([a].concat(Array.prototype.slice.call(arguments,
+    0)))}}var d=a;"undefined"!==typeof f?d=a[f]=[]:f="mixpanel";d.people=d.people||[];d.toString=function(b){var a="mixpanel";"mixpanel"!==f&&(a+="."+f);b||(a+=" (stub)");return a};d.people.toString=function(){return d.toString(1)+".people (stub)"};k="disable time_event track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config reset people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");
+    for(h=0;h<k.length;h++)e(d,k[h]);a._i.push([b,c,f])};a.__SV=1.2;b=e.createElement("script");b.type="text/javascript";b.async=!0;b.src="undefined"!==typeof MIXPANEL_CUSTOM_LIB_URL?MIXPANEL_CUSTOM_LIB_URL:"file:"===e.location.protocol&&"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js".match(/^\/\//)?"https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js":"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";c=e.getElementsByTagName("script")[0];c.parentNode.insertBefore(b,c)}})(document,window.mixpanel||[]);
+    mixpanel.init("b559e3b09a3b52279ed457132dc1cf7f");</script><!-- end Mixpanel -->
 
+    <!-- Facebook Pixel Code -->
+    <script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+    n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+    document,'script','https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '1784332531804917');
+    fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none"
+    src="https://www.facebook.com/tr?id=1784332531804917&ev=PageView&noscript=1"
+    /></noscript>
+    <!-- DO NOT MODIFY -->
+    <!-- End Facebook Pixel Code -->
 </head>
 <body>
 <div class="desktop">
@@ -553,24 +572,24 @@ $subid = $_GET["c1"];
             </style>
 
             <div class="offer-item content-area center-me w-720">
-                <h4 class="fw-bold" style="text-transform:uppercase">Sample #1: <span class="offer-1-name"></span></h4>
+                <h4 class="fw-bold" style="text-transform:uppercase">Sample #1: <span class="offer-1-name">DIVINE YOUTH</span></h4>
 
                 <div class="rating">
                     <img src="https://d2vym3yylwrzwi.cloudfront.net/survey/assets/11k734hh9m0e.png" style="width:60px;margin-top:-3px">
-                    1,983 Ratings
+                    1,256 Ratings
                 </div>
 
                 <hr>
 
                 <div class="narrow text-center">
-                    <img class="product-image offer-1-img" src="https://d2vym3yylwrzwi.cloudfront.net/survey/assets/allure_jar.jpg">
+                    <img class="product-image offer-1-img" src="https://d2vym3yylwrzwi.cloudfront.net/survey/assets/IMG_3231.png">
                 </div>
 
                 <div class="wide">
                     <p><strong>Description:</strong></p>
                     <div class="offer-description">
                         <p>Supermodel Victoria is 61 years old going on 30. Her advanced system will have you feeling more confident than ever. Women who try this experience firmer and more youthful skin within just a few weeks. Focusing on utilizing the best in natural ingredients, <span class="offer-1-name"></span> helps moisturize, smooth, and tighten your skin. Extreme happiness and confidence are common results.</p>
-                        <p>Test a risk FREE 30 day supply of <span class="offer-1-name">Allure Age-Defying Moisturizer</span></p>
+                        <p>Test a risk FREE 30 day supply of <span class="offer-1-name">Divine Youth Ageless Face Moisturizer</span></p>
                     </div>
                 </div>
 
@@ -612,7 +631,7 @@ $subid = $_GET["c1"];
                 </div>
             </div>
             <div class="offer-item content-area center-me w-720">
-                <h4 class="fw-bold" style="text-transform:uppercase">Sample #2: <span class="offer-2-name"></span></h4>
+                <h4 class="fw-bold" style="text-transform:uppercase">Sample #2: <span class="offer-2-name">ALLURE EYE SERUM</span></h4>
 
                 <div class="rating">
                     <img src="https://d2vym3yylwrzwi.cloudfront.net/survey/assets/11k734hh9m0e.png" style="width:60px;margin-top:-3px">
@@ -691,6 +710,12 @@ $subid = $_GET["c1"];
 
     </div>
 </div>
+<script type="text/javascript">
+    mixpanel.track_links("a", "click aff link", {
+        "sid": "<?=$subid;?>",
+        "lander": "walmart survey"
+    });
+</script>
 
 <script src="https://d2vym3yylwrzwi.cloudfront.net/survey/assets/jquery-2.2.4.min.js"></script>
 <script src="https://d2vym3yylwrzwi.cloudfront.net/survey/assets/bootstrap.min.js"></script>
